@@ -1,0 +1,1417 @@
+,Region,Year,"Gross domestic product (GDP) chained volume measures (CVM) index, 2019 equals 100"
+0,United Kingdom,2017,97.0
+1,United Kingdom,2018,98.4
+2,United Kingdom,2019,100.0
+3,United Kingdom,2020,89.6
+4,United Kingdom,2021,97.4
+5,United Kingdom,2022,101.7
+6,England,2017,97.1
+7,England,2018,98.4
+8,England,2019,100.0
+9,England,2020,89.2
+10,England,2021,97.8
+11,England,2022,101.9
+12,North East,2017,97.1
+13,North East,2018,98.2
+14,North East,2019,100.0
+15,North East,2020,87.4
+16,North East,2021,96.0
+17,North East,2022,100.4
+18,Tees Valley and Durham,2017,96.8
+19,Tees Valley and Durham,2018,98.9
+20,Tees Valley and Durham,2019,100.0
+21,Tees Valley and Durham,2020,91.3
+22,Tees Valley and Durham,2021,98.2
+23,Tees Valley and Durham,2022,102.2
+24,Hartlepool and Stockton-on-Tees,2017,99.3
+25,Hartlepool and Stockton-on-Tees,2018,98.5
+26,Hartlepool and Stockton-on-Tees,2019,100.0
+27,Hartlepool and Stockton-on-Tees,2020,93.3
+28,Hartlepool and Stockton-on-Tees,2021,99.2
+29,Hartlepool and Stockton-on-Tees,2022,102.1
+30,South Teesside,2017,97.5
+31,South Teesside,2018,101.5
+32,South Teesside,2019,100.0
+33,South Teesside,2020,85.4
+34,South Teesside,2021,94.8
+35,South Teesside,2022,100.4
+36,Darlington,2017,98.3
+37,Darlington,2018,100.8
+38,Darlington,2019,100.0
+39,Darlington,2020,87.1
+40,Darlington,2021,99.8
+41,Darlington,2022,104.7
+42,Durham CC,2017,94.4
+43,Durham CC,2018,97.9
+44,Durham CC,2019,100.0
+45,Durham CC,2020,94.5
+46,Durham CC,2021,101.0
+47,Durham CC,2022,104.2
+48,"Northumberland, and Tyne and Wear",2017,97.4
+49,"Northumberland, and Tyne and Wear",2018,97.7
+50,"Northumberland, and Tyne and Wear",2019,100.0
+51,"Northumberland, and Tyne and Wear",2020,84.7
+52,"Northumberland, and Tyne and Wear",2021,94.4
+53,"Northumberland, and Tyne and Wear",2022,99.2
+54,Northumberland,2017,96.4
+55,Northumberland,2018,96.5
+56,Northumberland,2019,100.0
+57,Northumberland,2020,87.0
+58,Northumberland,2021,94.1
+59,Northumberland,2022,101.3
+60,Tyneside,2017,96.4
+61,Tyneside,2018,97.5
+62,Tyneside,2019,100.0
+63,Tyneside,2020,84.7
+64,Tyneside,2021,96.7
+65,Tyneside,2022,101.7
+66,Sunderland,2017,99.6
+67,Sunderland,2018,98.5
+68,Sunderland,2019,100.0
+69,Sunderland,2020,83.8
+70,Sunderland,2021,88.2
+71,Sunderland,2022,91.2
+72,North West,2017,97.1
+73,North West,2018,97.9
+74,North West,2019,100.0
+75,North West,2020,90.6
+76,North West,2021,99.5
+77,North West,2022,104.3
+78,Cumbria,2017,99.4
+79,Cumbria,2018,97.3
+80,Cumbria,2019,100.0
+81,Cumbria,2020,86.8
+82,Cumbria,2021,93.6
+83,Cumbria,2022,95.6
+84,West Cumbria,2017,100.8
+85,West Cumbria,2018,99.7
+86,West Cumbria,2019,100.0
+87,West Cumbria,2020,90.9
+88,West Cumbria,2021,93.6
+89,West Cumbria,2022,92.3
+90,East Cumbria,2017,98.2
+91,East Cumbria,2018,95.7
+92,East Cumbria,2019,100.0
+93,East Cumbria,2020,84.9
+94,East Cumbria,2021,93.5
+95,East Cumbria,2022,97.1
+96,Greater Manchester,2017,95.7
+97,Greater Manchester,2018,98.1
+98,Greater Manchester,2019,100.0
+99,Greater Manchester,2020,92.6
+100,Greater Manchester,2021,101.8
+101,Greater Manchester,2022,107.6
+102,Manchester,2017,92.9
+103,Manchester,2018,95.1
+104,Manchester,2019,100.0
+105,Manchester,2020,89.6
+106,Manchester,2021,101.6
+107,Manchester,2022,111.3
+108,Greater Manchester South West,2017,93.6
+109,Greater Manchester South West,2018,98.2
+110,Greater Manchester South West,2019,100.0
+111,Greater Manchester South West,2020,97.1
+112,Greater Manchester South West,2021,106.5
+113,Greater Manchester South West,2022,110.5
+114,Greater Manchester South East,2017,99.5
+115,Greater Manchester South East,2018,101.1
+116,Greater Manchester South East,2019,100.0
+117,Greater Manchester South East,2020,93.0
+118,Greater Manchester South East,2021,100.6
+119,Greater Manchester South East,2022,105.7
+120,Greater Manchester North West,2017,101.1
+121,Greater Manchester North West,2018,102.5
+122,Greater Manchester North West,2019,100.0
+123,Greater Manchester North West,2020,94.0
+124,Greater Manchester North West,2021,102.1
+125,Greater Manchester North West,2022,105.4
+126,Greater Manchester North East,2017,97.0
+127,Greater Manchester North East,2018,97.6
+128,Greater Manchester North East,2019,100.0
+129,Greater Manchester North East,2020,88.6
+130,Greater Manchester North East,2021,96.0
+131,Greater Manchester North East,2022,99.4
+132,Lancashire,2017,99.5
+133,Lancashire,2018,98.6
+134,Lancashire,2019,100.0
+135,Lancashire,2020,89.5
+136,Lancashire,2021,100.4
+137,Lancashire,2022,104.3
+138,Blackburn with Darwen,2017,98.7
+139,Blackburn with Darwen,2018,98.8
+140,Blackburn with Darwen,2019,100.0
+141,Blackburn with Darwen,2020,88.0
+142,Blackburn with Darwen,2021,103.4
+143,Blackburn with Darwen,2022,110.6
+144,Blackpool,2017,94.7
+145,Blackpool,2018,95.9
+146,Blackpool,2019,100.0
+147,Blackpool,2020,81.3
+148,Blackpool,2021,90.2
+149,Blackpool,2022,100.0
+150,Lancaster and Wyre,2017,97.1
+151,Lancaster and Wyre,2018,97.3
+152,Lancaster and Wyre,2019,100.0
+153,Lancaster and Wyre,2020,89.4
+154,Lancaster and Wyre,2021,96.5
+155,Lancaster and Wyre,2022,101.7
+156,Mid Lancashire,2017,103.7
+157,Mid Lancashire,2018,100.2
+158,Mid Lancashire,2019,100.0
+159,Mid Lancashire,2020,93.1
+160,Mid Lancashire,2021,103.9
+161,Mid Lancashire,2022,106.7
+162,East Lancashire,2017,98.7
+163,East Lancashire,2018,99.6
+164,East Lancashire,2019,100.0
+165,East Lancashire,2020,88.2
+166,East Lancashire,2021,99.8
+167,East Lancashire,2022,100.3
+168,Chorley and West Lancashire,2017,94.2
+169,Chorley and West Lancashire,2018,95.2
+170,Chorley and West Lancashire,2019,100.0
+171,Chorley and West Lancashire,2020,88.7
+172,Chorley and West Lancashire,2021,102.2
+173,Chorley and West Lancashire,2022,106.6
+174,Cheshire,2017,97.4
+175,Cheshire,2018,98.0
+176,Cheshire,2019,100.0
+177,Cheshire,2020,91.5
+178,Cheshire,2021,96.2
+179,Cheshire,2022,100.9
+180,Warrington,2017,96.6
+181,Warrington,2018,95.8
+182,Warrington,2019,100.0
+183,Warrington,2020,94.6
+184,Warrington,2021,101.3
+185,Warrington,2022,102.5
+186,Cheshire East,2017,97.7
+187,Cheshire East,2018,98.8
+188,Cheshire East,2019,100.0
+189,Cheshire East,2020,93.6
+190,Cheshire East,2021,94.2
+191,Cheshire East,2022,98.4
+192,Cheshire West and Chester,2017,97.7
+193,Cheshire West and Chester,2018,98.8
+194,Cheshire West and Chester,2019,100.0
+195,Cheshire West and Chester,2020,86.6
+196,Cheshire West and Chester,2021,96.3
+197,Cheshire West and Chester,2022,101.5
+198,Merseyside,2017,96.5
+199,Merseyside,2018,97.0
+200,Merseyside,2019,100.0
+201,Merseyside,2020,87.9
+202,Merseyside,2021,98.9
+203,Merseyside,2022,103.3
+204,East Merseyside,2017,97.4
+205,East Merseyside,2018,98.3
+206,East Merseyside,2019,100.0
+207,East Merseyside,2020,87.7
+208,East Merseyside,2021,99.3
+209,East Merseyside,2022,99.1
+210,Liverpool,2017,94.3
+211,Liverpool,2018,94.7
+212,Liverpool,2019,100.0
+213,Liverpool,2020,86.5
+214,Liverpool,2021,99.7
+215,Liverpool,2022,106.7
+216,Sefton,2017,100.5
+217,Sefton,2018,100.6
+218,Sefton,2019,100.0
+219,Sefton,2020,89.5
+220,Sefton,2021,101.8
+221,Sefton,2022,104.6
+222,Wirral,2017,97.5
+223,Wirral,2018,97.6
+224,Wirral,2019,100.0
+225,Wirral,2020,90.8
+226,Wirral,2021,97.9
+227,Wirral,2022,103.1
+228,Yorkshire and The Humber,2017,97.9
+229,Yorkshire and The Humber,2018,99.2
+230,Yorkshire and The Humber,2019,100.0
+231,Yorkshire and The Humber,2020,89.2
+232,Yorkshire and The Humber,2021,100.5
+233,Yorkshire and The Humber,2022,104.4
+234,East Yorkshire and Northern Lincolnshire,2017,96.9
+235,East Yorkshire and Northern Lincolnshire,2018,98.5
+236,East Yorkshire and Northern Lincolnshire,2019,100.0
+237,East Yorkshire and Northern Lincolnshire,2020,87.5
+238,East Yorkshire and Northern Lincolnshire,2021,103.5
+239,East Yorkshire and Northern Lincolnshire,2022,107.2
+240,"Kingston upon Hull, City of",2017,98.6
+241,"Kingston upon Hull, City of",2018,100.6
+242,"Kingston upon Hull, City of",2019,100.0
+243,"Kingston upon Hull, City of",2020,83.3
+244,"Kingston upon Hull, City of",2021,99.5
+245,"Kingston upon Hull, City of",2022,104.1
+246,East Riding of Yorkshire,2017,94.0
+247,East Riding of Yorkshire,2018,97.5
+248,East Riding of Yorkshire,2019,100.0
+249,East Riding of Yorkshire,2020,90.4
+250,East Riding of Yorkshire,2021,103.8
+251,East Riding of Yorkshire,2022,108.0
+252,North and North East Lincolnshire,2017,99.1
+253,North and North East Lincolnshire,2018,99.2
+254,North and North East Lincolnshire,2019,100.0
+255,North and North East Lincolnshire,2020,88.4
+256,North and North East Lincolnshire,2021,110.0
+257,North and North East Lincolnshire,2022,110.8
+258,North Yorkshire,2017,99.8
+259,North Yorkshire,2018,99.0
+260,North Yorkshire,2019,100.0
+261,North Yorkshire,2020,89.9
+262,North Yorkshire,2021,101.7
+263,North Yorkshire,2022,104.7
+264,York,2017,100.7
+265,York,2018,101.8
+266,York,2019,100.0
+267,York,2020,88.4
+268,York,2021,98.9
+269,York,2022,106.4
+270,North Yorkshire CC,2017,99.0
+271,North Yorkshire CC,2018,97.9
+272,North Yorkshire CC,2019,100.0
+273,North Yorkshire CC,2020,90.6
+274,North Yorkshire CC,2021,102.0
+275,North Yorkshire CC,2022,104.6
+276,South Yorkshire,2017,99.3
+277,South Yorkshire,2018,98.8
+278,South Yorkshire,2019,100.0
+279,South Yorkshire,2020,91.1
+280,South Yorkshire,2021,99.7
+281,South Yorkshire,2022,103.9
+282,"Barnsley, Doncaster and Rotherham",2017,100.2
+283,"Barnsley, Doncaster and Rotherham",2018,99.8
+284,"Barnsley, Doncaster and Rotherham",2019,100.0
+285,"Barnsley, Doncaster and Rotherham",2020,90.4
+286,"Barnsley, Doncaster and Rotherham",2021,98.1
+287,"Barnsley, Doncaster and Rotherham",2022,101.1
+288,Sheffield,2017,97.6
+289,Sheffield,2018,97.1
+290,Sheffield,2019,100.0
+291,Sheffield,2020,92.0
+292,Sheffield,2021,102.2
+293,Sheffield,2022,107.5
+294,West Yorkshire,2017,96.8
+295,West Yorkshire,2018,99.7
+296,West Yorkshire,2019,100.0
+297,West Yorkshire,2020,88.7
+298,West Yorkshire,2021,99.3
+299,West Yorkshire,2022,103.6
+300,Bradford,2017,100.7
+301,Bradford,2018,100.1
+302,Bradford,2019,100.0
+303,Bradford,2020,90.3
+304,Bradford,2021,99.6
+305,Bradford,2022,104.4
+306,Leeds,2017,94.6
+307,Leeds,2018,98.7
+308,Leeds,2019,100.0
+309,Leeds,2020,87.8
+310,Leeds,2021,99.2
+311,Leeds,2022,105.0
+312,Calderdale and Kirklees,2017,98.3
+313,Calderdale and Kirklees,2018,101.3
+314,Calderdale and Kirklees,2019,100.0
+315,Calderdale and Kirklees,2020,89.3
+316,Calderdale and Kirklees,2021,100.3
+317,Calderdale and Kirklees,2022,99.6
+318,Wakefield,2017,95.3
+319,Wakefield,2018,98.8
+320,Wakefield,2019,100.0
+321,Wakefield,2020,89.3
+322,Wakefield,2021,98.9
+323,Wakefield,2022,103.7
+324,East Midlands,2017,97.0
+325,East Midlands,2018,99.0
+326,East Midlands,2019,100.0
+327,East Midlands,2020,90.4
+328,East Midlands,2021,100.0
+329,East Midlands,2022,101.8
+330,Derbyshire and Nottinghamshire,2017,97.2
+331,Derbyshire and Nottinghamshire,2018,99.0
+332,Derbyshire and Nottinghamshire,2019,100.0
+333,Derbyshire and Nottinghamshire,2020,92.6
+334,Derbyshire and Nottinghamshire,2021,100.1
+335,Derbyshire and Nottinghamshire,2022,100.4
+336,Derby,2017,93.8
+337,Derby,2018,97.7
+338,Derby,2019,100.0
+339,Derby,2020,97.2
+340,Derby,2021,102.4
+341,Derby,2022,100.8
+342,East Derbyshire,2017,99.0
+343,East Derbyshire,2018,100.5
+344,East Derbyshire,2019,100.0
+345,East Derbyshire,2020,95.5
+346,East Derbyshire,2021,105.0
+347,East Derbyshire,2022,105.0
+348,South and West Derbyshire,2017,95.1
+349,South and West Derbyshire,2018,96.8
+350,South and West Derbyshire,2019,100.0
+351,South and West Derbyshire,2020,94.4
+352,South and West Derbyshire,2021,100.6
+353,South and West Derbyshire,2022,96.7
+354,Nottingham,2017,100.7
+355,Nottingham,2018,101.1
+356,Nottingham,2019,100.0
+357,Nottingham,2020,87.6
+358,Nottingham,2021,95.0
+359,Nottingham,2022,98.8
+360,North Nottinghamshire,2017,96.7
+361,North Nottinghamshire,2018,98.2
+362,North Nottinghamshire,2019,100.0
+363,North Nottinghamshire,2020,91.7
+364,North Nottinghamshire,2021,99.5
+365,North Nottinghamshire,2022,99.9
+366,South Nottinghamshire,2017,95.2
+367,South Nottinghamshire,2018,99.3
+368,South Nottinghamshire,2019,100.0
+369,South Nottinghamshire,2020,92.4
+370,South Nottinghamshire,2021,100.2
+371,South Nottinghamshire,2022,104.9
+372,"Leicestershire, Rutland and Northamptonshire",2017,97.5
+373,"Leicestershire, Rutland and Northamptonshire",2018,99.7
+374,"Leicestershire, Rutland and Northamptonshire",2019,100.0
+375,"Leicestershire, Rutland and Northamptonshire",2020,88.5
+376,"Leicestershire, Rutland and Northamptonshire",2021,100.4
+377,"Leicestershire, Rutland and Northamptonshire",2022,104.0
+378,Leicester,2017,96.1
+379,Leicester,2018,98.3
+380,Leicester,2019,100.0
+381,Leicester,2020,86.1
+382,Leicester,2021,100.8
+383,Leicester,2022,103.4
+384,Leicestershire CC and Rutland,2017,99.3
+385,Leicestershire CC and Rutland,2018,100.8
+386,Leicestershire CC and Rutland,2019,100.0
+387,Leicestershire CC and Rutland,2020,88.7
+388,Leicestershire CC and Rutland,2021,100.2
+389,Leicestershire CC and Rutland,2022,105.2
+390,West Northamptonshire,2017,96.6
+391,West Northamptonshire,2018,99.7
+392,West Northamptonshire,2019,100.0
+393,West Northamptonshire,2020,88.8
+394,West Northamptonshire,2021,100.2
+395,West Northamptonshire,2022,103.0
+396,North Northamptonshire,2017,97.6
+397,North Northamptonshire,2018,99.5
+398,North Northamptonshire,2019,100.0
+399,North Northamptonshire,2020,89.7
+400,North Northamptonshire,2021,100.2
+401,North Northamptonshire,2022,104.4
+402,Lincolnshire,2017,95.5
+403,Lincolnshire,2018,97.3
+404,Lincolnshire,2019,100.0
+405,Lincolnshire,2020,88.8
+406,Lincolnshire,2021,98.3
+407,Lincolnshire,2022,99.8
+408,Lincolnshire CC,2017,95.6
+409,Lincolnshire CC,2018,97.6
+410,Lincolnshire CC,2019,100.0
+411,Lincolnshire CC,2020,89.0
+412,Lincolnshire CC,2021,98.2
+413,Lincolnshire CC,2022,99.6
+414,West Midlands,2017,99.4
+415,West Midlands,2018,100.6
+416,West Midlands,2019,100.0
+417,West Midlands,2020,89.1
+418,West Midlands,2021,98.6
+419,West Midlands,2022,101.4
+420,"Herefordshire, Worcestershire and Warwickshire",2017,99.6
+421,"Herefordshire, Worcestershire and Warwickshire",2018,100.6
+422,"Herefordshire, Worcestershire and Warwickshire",2019,100.0
+423,"Herefordshire, Worcestershire and Warwickshire",2020,91.7
+424,"Herefordshire, Worcestershire and Warwickshire",2021,96.8
+425,"Herefordshire, Worcestershire and Warwickshire",2022,98.3
+426,"Herefordshire, County of",2017,95.8
+427,"Herefordshire, County of",2018,98.0
+428,"Herefordshire, County of",2019,100.0
+429,"Herefordshire, County of",2020,88.9
+430,"Herefordshire, County of",2021,95.7
+431,"Herefordshire, County of",2022,97.0
+432,Worcestershire CC,2017,97.8
+433,Worcestershire CC,2018,99.4
+434,Worcestershire CC,2019,100.0
+435,Worcestershire CC,2020,93.2
+436,Worcestershire CC,2021,96.9
+437,Worcestershire CC,2022,99.4
+438,Warwickshire CC,2017,102.5
+439,Warwickshire CC,2018,102.4
+440,Warwickshire CC,2019,100.0
+441,Warwickshire CC,2020,91.1
+442,Warwickshire CC,2021,96.3
+443,Warwickshire CC,2022,97.1
+444,Shropshire and Staffordshire,2017,98.6
+445,Shropshire and Staffordshire,2018,99.8
+446,Shropshire and Staffordshire,2019,100.0
+447,Shropshire and Staffordshire,2020,90.1
+448,Shropshire and Staffordshire,2021,105.5
+449,Shropshire and Staffordshire,2022,109.0
+450,Telford and Wrekin,2017,95.4
+451,Telford and Wrekin,2018,97.7
+452,Telford and Wrekin,2019,100.0
+453,Telford and Wrekin,2020,96.8
+454,Telford and Wrekin,2021,112.1
+455,Telford and Wrekin,2022,118.6
+456,Shropshire CC,2017,100.1
+457,Shropshire CC,2018,101.8
+458,Shropshire CC,2019,100.0
+459,Shropshire CC,2020,88.7
+460,Shropshire CC,2021,103.3
+461,Shropshire CC,2022,108.2
+462,Stoke-on-Trent,2017,94.0
+463,Stoke-on-Trent,2018,99.4
+464,Stoke-on-Trent,2019,100.0
+465,Stoke-on-Trent,2020,91.2
+466,Stoke-on-Trent,2021,106.8
+467,Stoke-on-Trent,2022,108.2
+468,Staffordshire CC,2017,100.3
+469,Staffordshire CC,2018,99.8
+470,Staffordshire CC,2019,100.0
+471,Staffordshire CC,2020,88.9
+472,Staffordshire CC,2021,104.7
+473,Staffordshire CC,2022,107.1
+474,West Midlands,2017,99.7
+475,West Midlands,2018,100.9
+476,West Midlands,2019,100.0
+477,West Midlands,2020,87.2
+478,West Midlands,2021,96.0
+479,West Midlands,2022,99.1
+480,Birmingham,2017,97.9
+481,Birmingham,2018,100.2
+482,Birmingham,2019,100.0
+483,Birmingham,2020,86.9
+484,Birmingham,2021,96.9
+485,Birmingham,2022,102.1
+486,Solihull,2017,99.4
+487,Solihull,2018,100.3
+488,Solihull,2019,100.0
+489,Solihull,2020,85.3
+490,Solihull,2021,89.2
+491,Solihull,2022,91.4
+492,Coventry,2017,100.7
+493,Coventry,2018,100.6
+494,Coventry,2019,100.0
+495,Coventry,2020,85.7
+496,Coventry,2021,92.1
+497,Coventry,2022,95.1
+498,Dudley,2017,101.5
+499,Dudley,2018,100.5
+500,Dudley,2019,100.0
+501,Dudley,2020,86.7
+502,Dudley,2021,97.7
+503,Dudley,2022,101.2
+504,Sandwell,2017,103.7
+505,Sandwell,2018,105.4
+506,Sandwell,2019,100.0
+507,Sandwell,2020,92.1
+508,Sandwell,2021,96.4
+509,Sandwell,2022,97.2
+510,Walsall,2017,105.5
+511,Walsall,2018,103.4
+512,Walsall,2019,100.0
+513,Walsall,2020,86.8
+514,Walsall,2021,96.5
+515,Walsall,2022,98.3
+516,Wolverhampton,2017,97.1
+517,Wolverhampton,2018,99.8
+518,Wolverhampton,2019,100.0
+519,Wolverhampton,2020,85.8
+520,Wolverhampton,2021,97.1
+521,Wolverhampton,2022,102.9
+522,East,2017,98.1
+523,East,2018,98.1
+524,East,2019,100.0
+525,East,2020,88.2
+526,East,2021,97.4
+527,East,2022,101.2
+528,East Anglia,2017,96.9
+529,East Anglia,2018,96.6
+530,East Anglia,2019,100.0
+531,East Anglia,2020,90.2
+532,East Anglia,2021,98.3
+533,East Anglia,2022,100.8
+534,Peterborough,2017,99.6
+535,Peterborough,2018,106.8
+536,Peterborough,2019,100.0
+537,Peterborough,2020,92.0
+538,Peterborough,2021,101.8
+539,Peterborough,2022,102.3
+540,Cambridgeshire CC,2017,96.3
+541,Cambridgeshire CC,2018,95.7
+542,Cambridgeshire CC,2019,100.0
+543,Cambridgeshire CC,2020,92.9
+544,Cambridgeshire CC,2021,100.4
+545,Cambridgeshire CC,2022,103.9
+546,Suffolk CC,2017,96.1
+547,Suffolk CC,2018,96.7
+548,Suffolk CC,2019,100.0
+549,Suffolk CC,2020,89.1
+550,Suffolk CC,2021,95.7
+551,Suffolk CC,2022,97.3
+552,Norwich and East Norfolk,2017,95.5
+553,Norwich and East Norfolk,2018,91.7
+554,Norwich and East Norfolk,2019,100.0
+555,Norwich and East Norfolk,2020,87.7
+556,Norwich and East Norfolk,2021,95.7
+557,Norwich and East Norfolk,2022,100.4
+558,North and West Norfolk,2017,99.7
+559,North and West Norfolk,2018,98.5
+560,North and West Norfolk,2019,100.0
+561,North and West Norfolk,2020,88.7
+562,North and West Norfolk,2021,96.3
+563,North and West Norfolk,2022,98.7
+564,Breckland and South Norfolk,2017,98.4
+565,Breckland and South Norfolk,2018,96.0
+566,Breckland and South Norfolk,2019,100.0
+567,Breckland and South Norfolk,2020,88.9
+568,Breckland and South Norfolk,2021,99.5
+569,Breckland and South Norfolk,2022,102.1
+570,Bedfordshire and Hertfordshire,2017,98.0
+571,Bedfordshire and Hertfordshire,2018,98.2
+572,Bedfordshire and Hertfordshire,2019,100.0
+573,Bedfordshire and Hertfordshire,2020,87.4
+574,Bedfordshire and Hertfordshire,2021,96.1
+575,Bedfordshire and Hertfordshire,2022,100.2
+576,Luton,2017,98.0
+577,Luton,2018,98.6
+578,Luton,2019,100.0
+579,Luton,2020,64.5
+580,Luton,2021,76.5
+581,Luton,2022,91.6
+582,Hertfordshire CC,2017,97.3
+583,Hertfordshire CC,2018,97.7
+584,Hertfordshire CC,2019,100.0
+585,Hertfordshire CC,2020,91.6
+586,Hertfordshire CC,2021,99.6
+587,Hertfordshire CC,2022,102.1
+588,Bedford,2017,97.0
+589,Bedford,2018,96.5
+590,Bedford,2019,100.0
+591,Bedford,2020,84.4
+592,Bedford,2021,96.6
+593,Bedford,2022,100.0
+594,Central Bedfordshire,2017,103.2
+595,Central Bedfordshire,2018,102.1
+596,Central Bedfordshire,2019,100.0
+597,Central Bedfordshire,2020,86.7
+598,Central Bedfordshire,2021,94.8
+599,Central Bedfordshire,2022,96.3
+600,Essex,2017,100.0
+601,Essex,2018,100.2
+602,Essex,2019,100.0
+603,Essex,2020,86.0
+604,Essex,2021,97.9
+605,Essex,2022,103.0
+606,Southend-on-Sea,2017,104.1
+607,Southend-on-Sea,2018,104.4
+608,Southend-on-Sea,2019,100.0
+609,Southend-on-Sea,2020,79.9
+610,Southend-on-Sea,2021,92.6
+611,Southend-on-Sea,2022,97.1
+612,Thurrock,2017,98.9
+613,Thurrock,2018,100.3
+614,Thurrock,2019,100.0
+615,Thurrock,2020,87.3
+616,Thurrock,2021,101.4
+617,Thurrock,2022,113.9
+618,Essex Haven Gateway,2017,102.1
+619,Essex Haven Gateway,2018,101.7
+620,Essex Haven Gateway,2019,100.0
+621,Essex Haven Gateway,2020,85.5
+622,Essex Haven Gateway,2021,97.2
+623,Essex Haven Gateway,2022,101.0
+624,West Essex,2017,102.0
+625,West Essex,2018,101.8
+626,West Essex,2019,100.0
+627,West Essex,2020,82.0
+628,West Essex,2021,93.0
+629,West Essex,2022,97.3
+630,Heart of Essex,2017,97.7
+631,Heart of Essex,2018,98.5
+632,Heart of Essex,2019,100.0
+633,Heart of Essex,2020,87.0
+634,Heart of Essex,2021,98.1
+635,Heart of Essex,2022,102.5
+636,Essex Thames Gateway,2017,96.7
+637,Essex Thames Gateway,2018,97.1
+638,Essex Thames Gateway,2019,100.0
+639,Essex Thames Gateway,2020,90.8
+640,Essex Thames Gateway,2021,101.4
+641,Essex Thames Gateway,2022,108.6
+642,London,2017,96.8
+643,London,2018,98.6
+644,London,2019,100.0
+645,London,2020,87.0
+646,London,2021,94.8
+647,London,2022,99.4
+648,Inner London - West,2017,95.0
+649,Inner London - West,2018,98.1
+650,Inner London - West,2019,100.0
+651,Inner London - West,2020,90.8
+652,Inner London - West,2021,100.7
+653,Inner London - West,2022,105.1
+654,Camden and City of London,2017,94.4
+655,Camden and City of London,2018,97.8
+656,Camden and City of London,2019,100.0
+657,Camden and City of London,2020,94.8
+658,Camden and City of London,2021,104.5
+659,Camden and City of London,2022,106.4
+660,Westminster,2017,94.8
+661,Westminster,2018,97.5
+662,Westminster,2019,100.0
+663,Westminster,2020,88.0
+664,Westminster,2021,98.6
+665,Westminster,2022,107.9
+666,Kensington & Chelsea and Hammersmith & Fulham,2017,95.4
+667,Kensington & Chelsea and Hammersmith & Fulham,2018,100.2
+668,Kensington & Chelsea and Hammersmith & Fulham,2019,100.0
+669,Kensington & Chelsea and Hammersmith & Fulham,2020,84.5
+670,Kensington & Chelsea and Hammersmith & Fulham,2021,91.9
+671,Kensington & Chelsea and Hammersmith & Fulham,2022,95.1
+672,Wandsworth,2017,101.6
+673,Wandsworth,2018,101.2
+674,Wandsworth,2019,100.0
+675,Wandsworth,2020,79.9
+676,Wandsworth,2021,89.3
+677,Wandsworth,2022,95.9
+678,Inner London - East,2017,98.3
+679,Inner London - East,2018,99.1
+680,Inner London - East,2019,100.0
+681,Inner London - East,2020,87.4
+682,Inner London - East,2021,94.4
+683,Inner London - East,2022,100.0
+684,Hackney and Newham,2017,87.2
+685,Hackney and Newham,2018,91.7
+686,Hackney and Newham,2019,100.0
+687,Hackney and Newham,2020,91.6
+688,Hackney and Newham,2021,103.7
+689,Hackney and Newham,2022,108.2
+690,Tower Hamlets,2017,108.3
+691,Tower Hamlets,2018,103.3
+692,Tower Hamlets,2019,100.0
+693,Tower Hamlets,2020,89.5
+694,Tower Hamlets,2021,91.0
+695,Tower Hamlets,2022,89.7
+696,Haringey and Islington,2017,94.9
+697,Haringey and Islington,2018,98.9
+698,Haringey and Islington,2019,100.0
+699,Haringey and Islington,2020,87.4
+700,Haringey and Islington,2021,96.3
+701,Haringey and Islington,2022,112.5
+702,Lewisham and Southwark,2017,91.8
+703,Lewisham and Southwark,2018,96.5
+704,Lewisham and Southwark,2019,100.0
+705,Lewisham and Southwark,2020,86.1
+706,Lewisham and Southwark,2021,91.3
+707,Lewisham and Southwark,2022,93.9
+708,Lambeth,2017,104.4
+709,Lambeth,2018,103.7
+710,Lambeth,2019,100.0
+711,Lambeth,2020,77.7
+712,Lambeth,2021,91.0
+713,Lambeth,2022,106.6
+714,Outer London - East and North East,2017,97.7
+715,Outer London - East and North East,2018,98.5
+716,Outer London - East and North East,2019,100.0
+717,Outer London - East and North East,2020,83.4
+718,Outer London - East and North East,2021,92.2
+719,Outer London - East and North East,2022,97.1
+720,Bexley and Greenwich,2017,97.2
+721,Bexley and Greenwich,2018,97.0
+722,Bexley and Greenwich,2019,100.0
+723,Bexley and Greenwich,2020,83.3
+724,Bexley and Greenwich,2021,88.9
+725,Bexley and Greenwich,2022,93.1
+726,Barking & Dagenham and Havering,2017,98.8
+727,Barking & Dagenham and Havering,2018,99.4
+728,Barking & Dagenham and Havering,2019,100.0
+729,Barking & Dagenham and Havering,2020,83.7
+730,Barking & Dagenham and Havering,2021,95.7
+731,Barking & Dagenham and Havering,2022,103.0
+732,Redbridge and Waltham Forest,2017,99.4
+733,Redbridge and Waltham Forest,2018,99.6
+734,Redbridge and Waltham Forest,2019,100.0
+735,Redbridge and Waltham Forest,2020,81.5
+736,Redbridge and Waltham Forest,2021,92.3
+737,Redbridge and Waltham Forest,2022,99.3
+738,Enfield,2017,94.2
+739,Enfield,2018,98.3
+740,Enfield,2019,100.0
+741,Enfield,2020,85.5
+742,Enfield,2021,92.4
+743,Enfield,2022,93.6
+744,Outer London - South,2017,97.9
+745,Outer London - South,2018,98.9
+746,Outer London - South,2019,100.0
+747,Outer London - South,2020,85.4
+748,Outer London - South,2021,89.6
+749,Outer London - South,2022,93.5
+750,Bromley,2017,103.6
+751,Bromley,2018,103.1
+752,Bromley,2019,100.0
+753,Bromley,2020,84.5
+754,Bromley,2021,87.3
+755,Bromley,2022,90.5
+756,Croydon,2017,90.5
+757,Croydon,2018,95.9
+758,Croydon,2019,100.0
+759,Croydon,2020,88.9
+760,Croydon,2021,94.4
+761,Croydon,2022,98.5
+762,"Merton, Kingston upon Thames and Sutton",2017,99.8
+763,"Merton, Kingston upon Thames and Sutton",2018,98.9
+764,"Merton, Kingston upon Thames and Sutton",2019,100.0
+765,"Merton, Kingston upon Thames and Sutton",2020,83.3
+766,"Merton, Kingston upon Thames and Sutton",2021,88.6
+767,"Merton, Kingston upon Thames and Sutton",2022,92.1
+768,Outer London - West and North West,2017,98.6
+769,Outer London - West and North West,2018,99.2
+770,Outer London - West and North West,2019,100.0
+771,Outer London - West and North West,2020,78.4
+772,Outer London - West and North West,2021,82.6
+773,Outer London - West and North West,2022,87.1
+774,Barnet,2017,97.7
+775,Barnet,2018,98.8
+776,Barnet,2019,100.0
+777,Barnet,2020,88.7
+778,Barnet,2021,97.1
+779,Barnet,2022,102.6
+780,Brent,2017,98.5
+781,Brent,2018,96.3
+782,Brent,2019,100.0
+783,Brent,2020,85.4
+784,Brent,2021,90.7
+785,Brent,2022,94.1
+786,Ealing,2017,101.6
+787,Ealing,2018,101.0
+788,Ealing,2019,100.0
+789,Ealing,2020,91.0
+790,Ealing,2021,94.1
+791,Ealing,2022,92.6
+792,Harrow and Hillingdon,2017,99.6
+793,Harrow and Hillingdon,2018,100.5
+794,Harrow and Hillingdon,2019,100.0
+795,Harrow and Hillingdon,2020,72.2
+796,Harrow and Hillingdon,2021,77.1
+797,Harrow and Hillingdon,2022,81.1
+798,Hounslow and Richmond upon Thames,2017,97.1
+799,Hounslow and Richmond upon Thames,2018,98.9
+800,Hounslow and Richmond upon Thames,2019,100.0
+801,Hounslow and Richmond upon Thames,2020,72.9
+802,Hounslow and Richmond upon Thames,2021,74.9
+803,Hounslow and Richmond upon Thames,2022,81.7
+804,South East,2017,95.5
+805,South East,2018,97.1
+806,South East,2019,100.0
+807,South East,2020,92.4
+808,South East,2021,98.4
+809,South East,2022,103.1
+810,"Berkshire, Buckinghamshire and Oxfordshire",2017,93.2
+811,"Berkshire, Buckinghamshire and Oxfordshire",2018,96.5
+812,"Berkshire, Buckinghamshire and Oxfordshire",2019,100.0
+813,"Berkshire, Buckinghamshire and Oxfordshire",2020,95.8
+814,"Berkshire, Buckinghamshire and Oxfordshire",2021,103.0
+815,"Berkshire, Buckinghamshire and Oxfordshire",2022,107.1
+816,Berkshire,2017,90.1
+817,Berkshire,2018,95.8
+818,Berkshire,2019,100.0
+819,Berkshire,2020,99.6
+820,Berkshire,2021,107.4
+821,Berkshire,2022,112.5
+822,Milton Keynes,2017,100.1
+823,Milton Keynes,2018,101.1
+824,Milton Keynes,2019,100.0
+825,Milton Keynes,2020,89.7
+826,Milton Keynes,2021,95.9
+827,Milton Keynes,2022,96.0
+828,Buckinghamshire CC,2017,94.3
+829,Buckinghamshire CC,2018,95.4
+830,Buckinghamshire CC,2019,100.0
+831,Buckinghamshire CC,2020,92.0
+832,Buckinghamshire CC,2021,98.9
+833,Buckinghamshire CC,2022,101.6
+834,Oxfordshire CC,2017,94.0
+835,Oxfordshire CC,2018,95.9
+836,Oxfordshire CC,2019,100.0
+837,Oxfordshire CC,2020,95.7
+838,Oxfordshire CC,2021,101.6
+839,Oxfordshire CC,2022,107.0
+840,"Surrey, East and West Sussex",2017,97.7
+841,"Surrey, East and West Sussex",2018,98.0
+842,"Surrey, East and West Sussex",2019,100.0
+843,"Surrey, East and West Sussex",2020,90.5
+844,"Surrey, East and West Sussex",2021,95.8
+845,"Surrey, East and West Sussex",2022,100.8
+846,Brighton and Hove,2017,94.1
+847,Brighton and Hove,2018,97.9
+848,Brighton and Hove,2019,100.0
+849,Brighton and Hove,2020,92.6
+850,Brighton and Hove,2021,101.0
+851,Brighton and Hove,2022,112.2
+852,East Sussex CC,2017,99.1
+853,East Sussex CC,2018,98.3
+854,East Sussex CC,2019,100.0
+855,East Sussex CC,2020,90.7
+856,East Sussex CC,2021,99.7
+857,East Sussex CC,2022,101.8
+858,West Surrey,2017,95.7
+859,West Surrey,2018,96.7
+860,West Surrey,2019,100.0
+861,West Surrey,2020,94.5
+862,West Surrey,2021,98.4
+863,West Surrey,2022,98.7
+864,East Surrey,2017,107.3
+865,East Surrey,2018,100.2
+866,East Surrey,2019,100.0
+867,East Surrey,2020,88.3
+868,East Surrey,2021,94.2
+869,East Surrey,2022,102.7
+870,West Sussex (South West),2017,96.2
+871,West Sussex (South West),2018,98.1
+872,West Sussex (South West),2019,100.0
+873,West Sussex (South West),2020,92.1
+874,West Sussex (South West),2021,99.4
+875,West Sussex (South West),2022,105.4
+876,West Sussex (North East),2017,96.0
+877,West Sussex (North East),2018,99.1
+878,West Sussex (North East),2019,100.0
+879,West Sussex (North East),2020,81.6
+880,West Sussex (North East),2021,86.8
+881,West Sussex (North East),2022,92.2
+882,Hampshire and Isle of Wight,2017,95.3
+883,Hampshire and Isle of Wight,2018,96.5
+884,Hampshire and Isle of Wight,2019,100.0
+885,Hampshire and Isle of Wight,2020,90.3
+886,Hampshire and Isle of Wight,2021,96.1
+887,Hampshire and Isle of Wight,2022,101.3
+888,Portsmouth,2017,94.4
+889,Portsmouth,2018,94.6
+890,Portsmouth,2019,100.0
+891,Portsmouth,2020,91.1
+892,Portsmouth,2021,97.6
+893,Portsmouth,2022,103.8
+894,Southampton,2017,96.9
+895,Southampton,2018,101.9
+896,Southampton,2019,100.0
+897,Southampton,2020,87.0
+898,Southampton,2021,95.7
+899,Southampton,2022,103.6
+900,Isle of Wight,2017,97.4
+901,Isle of Wight,2018,96.4
+902,Isle of Wight,2019,100.0
+903,Isle of Wight,2020,89.5
+904,Isle of Wight,2021,96.7
+905,Isle of Wight,2022,104.4
+906,South Hampshire,2017,102.4
+907,South Hampshire,2018,98.0
+908,South Hampshire,2019,100.0
+909,South Hampshire,2020,91.4
+910,South Hampshire,2021,97.2
+911,South Hampshire,2022,99.4
+912,Central Hampshire,2017,96.0
+913,Central Hampshire,2018,96.8
+914,Central Hampshire,2019,100.0
+915,Central Hampshire,2020,89.3
+916,Central Hampshire,2021,97.2
+917,Central Hampshire,2022,101.6
+918,North Hampshire,2017,89.0
+919,North Hampshire,2018,93.0
+920,North Hampshire,2019,100.0
+921,North Hampshire,2020,93.2
+922,North Hampshire,2021,96.3
+923,North Hampshire,2022,99.8
+924,Kent,2017,96.2
+925,Kent,2018,97.6
+926,Kent,2019,100.0
+927,Kent,2020,91.7
+928,Kent,2021,96.5
+929,Kent,2022,101.2
+930,Medway,2017,95.6
+931,Medway,2018,96.2
+932,Medway,2019,100.0
+933,Medway,2020,94.2
+934,Medway,2021,95.6
+935,Medway,2022,101.7
+936,Kent Thames Gateway,2017,95.4
+937,Kent Thames Gateway,2018,96.6
+938,Kent Thames Gateway,2019,100.0
+939,Kent Thames Gateway,2020,92.2
+940,Kent Thames Gateway,2021,100.6
+941,Kent Thames Gateway,2022,98.3
+942,East Kent,2017,99.2
+943,East Kent,2018,100.1
+944,East Kent,2019,100.0
+945,East Kent,2020,89.3
+946,East Kent,2021,95.2
+947,East Kent,2022,102.2
+948,Mid Kent,2017,93.6
+949,Mid Kent,2018,95.5
+950,Mid Kent,2019,100.0
+951,Mid Kent,2020,90.7
+952,Mid Kent,2021,96.8
+953,Mid Kent,2022,101.4
+954,West Kent,2017,95.4
+955,West Kent,2018,98.1
+956,West Kent,2019,100.0
+957,West Kent,2020,93.9
+958,West Kent,2021,98.8
+959,West Kent,2022,101.5
+960,South West,2017,97.4
+961,South West,2018,98.2
+962,South West,2019,100.0
+963,South West,2020,89.1
+964,South West,2021,100.1
+965,South West,2022,104.3
+966,"Gloucestershire, Wiltshire and Bath/Bristol Area",2017,96.8
+967,"Gloucestershire, Wiltshire and Bath/Bristol Area",2018,97.8
+968,"Gloucestershire, Wiltshire and Bath/Bristol Area",2019,100.0
+969,"Gloucestershire, Wiltshire and Bath/Bristol Area",2020,90.2
+970,"Gloucestershire, Wiltshire and Bath/Bristol Area",2021,99.6
+971,"Gloucestershire, Wiltshire and Bath/Bristol Area",2022,103.7
+972,"Bristol, City of",2017,100.5
+973,"Bristol, City of",2018,97.5
+974,"Bristol, City of",2019,100.0
+975,"Bristol, City of",2020,88.2
+976,"Bristol, City of",2021,102.9
+977,"Bristol, City of",2022,109.1
+978,"Bath and North East Somerset, North Somerset and South Gloucestershire",2017,94.9
+979,"Bath and North East Somerset, North Somerset and South Gloucestershire",2018,97.2
+980,"Bath and North East Somerset, North Somerset and South Gloucestershire",2019,100.0
+981,"Bath and North East Somerset, North Somerset and South Gloucestershire",2020,92.8
+982,"Bath and North East Somerset, North Somerset and South Gloucestershire",2021,100.5
+983,"Bath and North East Somerset, North Somerset and South Gloucestershire",2022,106.4
+984,Gloucestershire CC,2017,95.2
+985,Gloucestershire CC,2018,96.7
+986,Gloucestershire CC,2019,100.0
+987,Gloucestershire CC,2020,90.4
+988,Gloucestershire CC,2021,98.8
+989,Gloucestershire CC,2022,98.4
+990,Swindon,2017,95.9
+991,Swindon,2018,99.5
+992,Swindon,2019,100.0
+993,Swindon,2020,88.2
+994,Swindon,2021,91.2
+995,Swindon,2022,99.3
+996,Wiltshire,2017,97.2
+997,Wiltshire,2018,98.5
+998,Wiltshire,2019,100.0
+999,Wiltshire,2020,90.2
+1000,Wiltshire,2021,99.5
+1001,Wiltshire,2022,104.3
+1002,Dorset and Somerset,2017,98.0
+1003,Dorset and Somerset,2018,98.9
+1004,Dorset and Somerset,2019,100.0
+1005,Dorset and Somerset,2020,90.2
+1006,Dorset and Somerset,2021,98.4
+1007,Dorset and Somerset,2022,102.3
+1008,Somerset CC,2017,97.7
+1009,Somerset CC,2018,99.4
+1010,Somerset CC,2019,100.0
+1011,Somerset CC,2020,91.0
+1012,Somerset CC,2021,97.5
+1013,Somerset CC,2022,102.0
+1014,"Bournemouth, Christchurch and Poole",2017,100.3
+1015,"Bournemouth, Christchurch and Poole",2018,98.6
+1016,"Bournemouth, Christchurch and Poole",2019,100.0
+1017,"Bournemouth, Christchurch and Poole",2020,89.3
+1018,"Bournemouth, Christchurch and Poole",2021,98.7
+1019,"Bournemouth, Christchurch and Poole",2022,101.5
+1020,Dorset,2017,97.5
+1021,Dorset,2018,98.3
+1022,Dorset,2019,100.0
+1023,Dorset,2020,90.9
+1024,Dorset,2021,99.1
+1025,Dorset,2022,102.0
+1026,Cornwall and Isles of Scilly,2017,97.7
+1027,Cornwall and Isles of Scilly,2018,98.6
+1028,Cornwall and Isles of Scilly,2019,100.0
+1029,Cornwall and Isles of Scilly,2020,87.0
+1030,Cornwall and Isles of Scilly,2021,102.0
+1031,Cornwall and Isles of Scilly,2022,106.4
+1032,Cornwall and Isles of Scilly,2017,97.7
+1033,Cornwall and Isles of Scilly,2018,98.6
+1034,Cornwall and Isles of Scilly,2019,100.0
+1035,Cornwall and Isles of Scilly,2020,87.1
+1036,Cornwall and Isles of Scilly,2021,101.4
+1037,Cornwall and Isles of Scilly,2022,106.2
+1038,Devon,2017,98.3
+1039,Devon,2018,98.1
+1040,Devon,2019,100.0
+1041,Devon,2020,85.6
+1042,Devon,2021,102.4
+1043,Devon,2022,107.4
+1044,Plymouth,2017,98.0
+1045,Plymouth,2018,99.0
+1046,Plymouth,2019,100.0
+1047,Plymouth,2020,85.4
+1048,Plymouth,2021,98.9
+1049,Plymouth,2022,105.7
+1050,Torbay,2017,101.9
+1051,Torbay,2018,98.1
+1052,Torbay,2019,100.0
+1053,Torbay,2020,82.8
+1054,Torbay,2021,103.0
+1055,Torbay,2022,108.4
+1056,Devon CC,2017,98.1
+1057,Devon CC,2018,98.1
+1058,Devon CC,2019,100.0
+1059,Devon CC,2020,86.3
+1060,Devon CC,2021,103.0
+1061,Devon CC,2022,108.0
+1062,Wales,2017,96.0
+1063,Wales,2018,98.5
+1064,Wales,2019,100.0
+1065,Wales,2020,89.3
+1066,Wales,2021,94.0
+1067,Wales,2022,97.5
+1068,West Wales and The Valleys,2017,96.5
+1069,West Wales and The Valleys,2018,98.7
+1070,West Wales and The Valleys,2019,100.0
+1071,West Wales and The Valleys,2020,86.8
+1072,West Wales and The Valleys,2021,93.3
+1073,West Wales and The Valleys,2022,96.9
+1074,Isle of Anglesey,2017,93.4
+1075,Isle of Anglesey,2018,96.8
+1076,Isle of Anglesey,2019,100.0
+1077,Isle of Anglesey,2020,82.0
+1078,Isle of Anglesey,2021,93.7
+1079,Isle of Anglesey,2022,102.5
+1080,Gwynedd,2017,98.8
+1081,Gwynedd,2018,98.9
+1082,Gwynedd,2019,100.0
+1083,Gwynedd,2020,80.8
+1084,Gwynedd,2021,93.0
+1085,Gwynedd,2022,95.1
+1086,Conwy and Denbighshire,2017,100.1
+1087,Conwy and Denbighshire,2018,100.1
+1088,Conwy and Denbighshire,2019,100.0
+1089,Conwy and Denbighshire,2020,86.5
+1090,Conwy and Denbighshire,2021,93.6
+1091,Conwy and Denbighshire,2022,97.8
+1092,South West Wales,2017,98.5
+1093,South West Wales,2018,99.7
+1094,South West Wales,2019,100.0
+1095,South West Wales,2020,84.2
+1096,South West Wales,2021,93.0
+1097,South West Wales,2022,99.3
+1098,Central Valleys,2017,97.9
+1099,Central Valleys,2018,99.6
+1100,Central Valleys,2019,100.0
+1101,Central Valleys,2020,88.2
+1102,Central Valleys,2021,94.7
+1103,Central Valleys,2022,99.3
+1104,Gwent Valleys,2017,93.9
+1105,Gwent Valleys,2018,97.7
+1106,Gwent Valleys,2019,100.0
+1107,Gwent Valleys,2020,90.4
+1108,Gwent Valleys,2021,97.3
+1109,Gwent Valleys,2022,99.6
+1110,Bridgend and Neath Port Talbot,2017,94.6
+1111,Bridgend and Neath Port Talbot,2018,96.4
+1112,Bridgend and Neath Port Talbot,2019,100.0
+1113,Bridgend and Neath Port Talbot,2020,88.4
+1114,Bridgend and Neath Port Talbot,2021,95.0
+1115,Bridgend and Neath Port Talbot,2022,95.1
+1116,Swansea,2017,94.3
+1117,Swansea,2018,99.2
+1118,Swansea,2019,100.0
+1119,Swansea,2020,87.7
+1120,Swansea,2021,90.7
+1121,Swansea,2022,90.9
+1122,East Wales,2017,95.4
+1123,East Wales,2018,98.4
+1124,East Wales,2019,100.0
+1125,East Wales,2020,92.3
+1126,East Wales,2021,94.9
+1127,East Wales,2022,98.4
+1128,Monmouthshire and Newport,2017,94.7
+1129,Monmouthshire and Newport,2018,99.9
+1130,Monmouthshire and Newport,2019,100.0
+1131,Monmouthshire and Newport,2020,89.5
+1132,Monmouthshire and Newport,2021,92.8
+1133,Monmouthshire and Newport,2022,95.4
+1134,Cardiff and Vale of Glamorgan,2017,96.2
+1135,Cardiff and Vale of Glamorgan,2018,97.7
+1136,Cardiff and Vale of Glamorgan,2019,100.0
+1137,Cardiff and Vale of Glamorgan,2020,92.9
+1138,Cardiff and Vale of Glamorgan,2021,97.0
+1139,Cardiff and Vale of Glamorgan,2022,100.5
+1140,Flintshire and Wrexham,2017,93.6
+1141,Flintshire and Wrexham,2018,97.6
+1142,Flintshire and Wrexham,2019,100.0
+1143,Flintshire and Wrexham,2020,93.5
+1144,Flintshire and Wrexham,2021,97.6
+1145,Flintshire and Wrexham,2022,100.3
+1146,Powys,2017,100.7
+1147,Powys,2018,101.0
+1148,Powys,2019,100.0
+1149,Powys,2020,89.4
+1150,Powys,2021,92.5
+1151,Powys,2022,97.0
+1152,Scotland,2017,98.4
+1153,Scotland,2018,98.5
+1154,Scotland,2019,100.0
+1155,Scotland,2020,87.5
+1156,Scotland,2021,95.8
+1157,Scotland,2022,98.8
+1158,North Eastern Scotland,2017,102.8
+1159,North Eastern Scotland,2018,99.8
+1160,North Eastern Scotland,2019,100.0
+1161,North Eastern Scotland,2020,85.5
+1162,North Eastern Scotland,2021,89.6
+1163,North Eastern Scotland,2022,93.8
+1164,Aberdeen City and Aberdeenshire,2017,102.9
+1165,Aberdeen City and Aberdeenshire,2018,100.0
+1166,Aberdeen City and Aberdeenshire,2019,100.0
+1167,Aberdeen City and Aberdeenshire,2020,85.4
+1168,Aberdeen City and Aberdeenshire,2021,89.5
+1169,Aberdeen City and Aberdeenshire,2022,94.1
+1170,Highlands and Islands,2017,99.0
+1171,Highlands and Islands,2018,98.7
+1172,Highlands and Islands,2019,100.0
+1173,Highlands and Islands,2020,87.4
+1174,Highlands and Islands,2021,93.1
+1175,Highlands and Islands,2022,96.1
+1176,"Caithness and Sutherland, and Ross and Cromarty",2017,96.5
+1177,"Caithness and Sutherland, and Ross and Cromarty",2018,96.3
+1178,"Caithness and Sutherland, and Ross and Cromarty",2019,100.0
+1179,"Caithness and Sutherland, and Ross and Cromarty",2020,89.5
+1180,"Caithness and Sutherland, and Ross and Cromarty",2021,96.4
+1181,"Caithness and Sutherland, and Ross and Cromarty",2022,101.9
+1182,"Inverness and Nairn, Moray, Badenoch and Strathspey",2017,100.6
+1183,"Inverness and Nairn, Moray, Badenoch and Strathspey",2018,100.7
+1184,"Inverness and Nairn, Moray, Badenoch and Strathspey",2019,100.0
+1185,"Inverness and Nairn, Moray, Badenoch and Strathspey",2020,86.8
+1186,"Inverness and Nairn, Moray, Badenoch and Strathspey",2021,93.2
+1187,"Inverness and Nairn, Moray, Badenoch and Strathspey",2022,97.2
+1188,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2017,98.8
+1189,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2018,97.9
+1190,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2019,100.0
+1191,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2020,86.2
+1192,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2021,91.7
+1193,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2022,94.4
+1194,Na h-Eileanan Siar,2017,91.4
+1195,Na h-Eileanan Siar,2018,95.0
+1196,Na h-Eileanan Siar,2019,100.0
+1197,Na h-Eileanan Siar,2020,90.8
+1198,Na h-Eileanan Siar,2021,97.9
+1199,Na h-Eileanan Siar,2022,93.7
+1200,Orkney Islands,2017,105.2
+1201,Orkney Islands,2018,97.1
+1202,Orkney Islands,2019,100.0
+1203,Orkney Islands,2020,88.5
+1204,Orkney Islands,2021,92.2
+1205,Orkney Islands,2022,95.7
+1206,Shetland Islands,2017,98.5
+1207,Shetland Islands,2018,97.0
+1208,Shetland Islands,2019,100.0
+1209,Shetland Islands,2020,88.4
+1210,Shetland Islands,2021,87.6
+1211,Shetland Islands,2022,86.5
+1212,Eastern Scotland,2017,97.2
+1213,Eastern Scotland,2018,98.2
+1214,Eastern Scotland,2019,100.0
+1215,Eastern Scotland,2020,87.7
+1216,Eastern Scotland,2021,97.1
+1217,Eastern Scotland,2022,100.0
+1218,Angus and Dundee City,2017,95.6
+1219,Angus and Dundee City,2018,96.6
+1220,Angus and Dundee City,2019,100.0
+1221,Angus and Dundee City,2020,83.9
+1222,Angus and Dundee City,2021,94.6
+1223,Angus and Dundee City,2022,98.1
+1224,Clackmannanshire and Fife,2017,99.8
+1225,Clackmannanshire and Fife,2018,98.8
+1226,Clackmannanshire and Fife,2019,100.0
+1227,Clackmannanshire and Fife,2020,91.7
+1228,Clackmannanshire and Fife,2021,99.3
+1229,Clackmannanshire and Fife,2022,101.9
+1230,East Lothian and Midlothian,2017,96.0
+1231,East Lothian and Midlothian,2018,98.0
+1232,East Lothian and Midlothian,2019,100.0
+1233,East Lothian and Midlothian,2020,88.6
+1234,East Lothian and Midlothian,2021,98.8
+1235,East Lothian and Midlothian,2022,100.1
+1236,City of Edinburgh,2017,96.3
+1237,City of Edinburgh,2018,98.2
+1238,City of Edinburgh,2019,100.0
+1239,City of Edinburgh,2020,86.6
+1240,City of Edinburgh,2021,95.5
+1241,City of Edinburgh,2022,101.5
+1242,Falkirk,2017,97.8
+1243,Falkirk,2018,99.4
+1244,Falkirk,2019,100.0
+1245,Falkirk,2020,85.6
+1246,Falkirk,2021,95.1
+1247,Falkirk,2022,93.8
+1248,"Perth and Kinross, and Stirling",2017,100.8
+1249,"Perth and Kinross, and Stirling",2018,98.4
+1250,"Perth and Kinross, and Stirling",2019,100.0
+1251,"Perth and Kinross, and Stirling",2020,85.6
+1252,"Perth and Kinross, and Stirling",2021,92.3
+1253,"Perth and Kinross, and Stirling",2022,91.4
+1254,West Lothian,2017,94.4
+1255,West Lothian,2018,98.5
+1256,West Lothian,2019,100.0
+1257,West Lothian,2020,95.5
+1258,West Lothian,2021,107.3
+1259,West Lothian,2022,112.3
+1260,West Central Scotland,2017,97.1
+1261,West Central Scotland,2018,97.9
+1262,West Central Scotland,2019,100.0
+1263,West Central Scotland,2020,88.7
+1264,West Central Scotland,2021,98.8
+1265,West Central Scotland,2022,101.3
+1266,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2017,97.3
+1267,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2018,98.5
+1268,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2019,100.0
+1269,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2020,86.0
+1270,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2021,93.2
+1271,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2022,97.0
+1272,Glasgow City,2017,96.0
+1273,Glasgow City,2018,97.0
+1274,Glasgow City,2019,100.0
+1275,Glasgow City,2020,89.5
+1276,Glasgow City,2021,99.4
+1277,Glasgow City,2022,104.7
+1278,"Inverclyde, East Renfrewshire, and Renfrewshire",2017,99.8
+1279,"Inverclyde, East Renfrewshire, and Renfrewshire",2018,99.9
+1280,"Inverclyde, East Renfrewshire, and Renfrewshire",2019,100.0
+1281,"Inverclyde, East Renfrewshire, and Renfrewshire",2020,86.8
+1282,"Inverclyde, East Renfrewshire, and Renfrewshire",2021,96.8
+1283,"Inverclyde, East Renfrewshire, and Renfrewshire",2022,95.5
+1284,North Lanarkshire,2017,97.5
+1285,North Lanarkshire,2018,98.3
+1286,North Lanarkshire,2019,100.0
+1287,North Lanarkshire,2020,89.0
+1288,North Lanarkshire,2021,97.0
+1289,North Lanarkshire,2022,100.5
+1290,Southern Scotland,2017,100.6
+1291,Southern Scotland,2018,99.5
+1292,Southern Scotland,2019,100.0
+1293,Southern Scotland,2020,86.3
+1294,Southern Scotland,2021,92.4
+1295,Southern Scotland,2022,95.9
+1296,Scottish Borders,2017,96.9
+1297,Scottish Borders,2018,99.0
+1298,Scottish Borders,2019,100.0
+1299,Scottish Borders,2020,86.4
+1300,Scottish Borders,2021,94.7
+1301,Scottish Borders,2022,91.0
+1302,Dumfries and Galloway,2017,99.6
+1303,Dumfries and Galloway,2018,97.8
+1304,Dumfries and Galloway,2019,100.0
+1305,Dumfries and Galloway,2020,86.5
+1306,Dumfries and Galloway,2021,91.4
+1307,Dumfries and Galloway,2022,93.1
+1308,East Ayrshire and North Ayrshire mainland,2017,101.3
+1309,East Ayrshire and North Ayrshire mainland,2018,99.6
+1310,East Ayrshire and North Ayrshire mainland,2019,100.0
+1311,East Ayrshire and North Ayrshire mainland,2020,89.1
+1312,East Ayrshire and North Ayrshire mainland,2021,97.6
+1313,East Ayrshire and North Ayrshire mainland,2022,102.6
+1314,South Ayrshire,2017,100.6
+1315,South Ayrshire,2018,100.9
+1316,South Ayrshire,2019,100.0
+1317,South Ayrshire,2020,81.5
+1318,South Ayrshire,2021,87.0
+1319,South Ayrshire,2022,93.9
+1320,South Lanarkshire,2017,102.9
+1321,South Lanarkshire,2018,100.4
+1322,South Lanarkshire,2019,100.0
+1323,South Lanarkshire,2020,86.8
+1324,South Lanarkshire,2021,91.3
+1325,South Lanarkshire,2022,96.4
+1326,Northern Ireland,2017,97.2
+1327,Northern Ireland,2018,97.5
+1328,Northern Ireland,2019,100.0
+1329,Northern Ireland,2020,87.7
+1330,Northern Ireland,2021,98.1
+1331,Northern Ireland,2022,101.1
+1332,Northern Ireland,2017,97.2
+1333,Northern Ireland,2018,97.5
+1334,Northern Ireland,2019,100.0
+1335,Northern Ireland,2020,87.7
+1336,Northern Ireland,2021,98.1
+1337,Northern Ireland,2022,101.1
+1338,Belfast,2017,98.2
+1339,Belfast,2018,98.9
+1340,Belfast,2019,100.0
+1341,Belfast,2020,87.3
+1342,Belfast,2021,100.5
+1343,Belfast,2022,104.0
+1344,"Armagh City, Banbridge and Craigavon",2017,94.0
+1345,"Armagh City, Banbridge and Craigavon",2018,97.3
+1346,"Armagh City, Banbridge and Craigavon",2019,100.0
+1347,"Armagh City, Banbridge and Craigavon",2020,86.6
+1348,"Armagh City, Banbridge and Craigavon",2021,96.9
+1349,"Armagh City, Banbridge and Craigavon",2022,99.1
+1350,"Newry, Mourne and Down",2017,95.2
+1351,"Newry, Mourne and Down",2018,96.3
+1352,"Newry, Mourne and Down",2019,100.0
+1353,"Newry, Mourne and Down",2020,88.9
+1354,"Newry, Mourne and Down",2021,96.4
+1355,"Newry, Mourne and Down",2022,99.6
+1356,Ards and North Down,2017,96.6
+1357,Ards and North Down,2018,97.7
+1358,Ards and North Down,2019,100.0
+1359,Ards and North Down,2020,88.6
+1360,Ards and North Down,2021,95.1
+1361,Ards and North Down,2022,95.5
+1362,Derry City and Strabane,2017,94.8
+1363,Derry City and Strabane,2018,95.4
+1364,Derry City and Strabane,2019,100.0
+1365,Derry City and Strabane,2020,90.2
+1366,Derry City and Strabane,2021,97.8
+1367,Derry City and Strabane,2022,103.4
+1368,Mid Ulster,2017,90.8
+1369,Mid Ulster,2018,95.8
+1370,Mid Ulster,2019,100.0
+1371,Mid Ulster,2020,88.6
+1372,Mid Ulster,2021,99.1
+1373,Mid Ulster,2022,102.3
+1374,Causeway Coast and Glens,2017,102.4
+1375,Causeway Coast and Glens,2018,99.4
+1376,Causeway Coast and Glens,2019,100.0
+1377,Causeway Coast and Glens,2020,86.3
+1378,Causeway Coast and Glens,2021,95.5
+1379,Causeway Coast and Glens,2022,97.8
+1380,Antrim and Newtownabbey,2017,97.0
+1381,Antrim and Newtownabbey,2018,97.3
+1382,Antrim and Newtownabbey,2019,100.0
+1383,Antrim and Newtownabbey,2020,85.4
+1384,Antrim and Newtownabbey,2021,95.6
+1385,Antrim and Newtownabbey,2022,97.0
+1386,Lisburn and Castlereagh,2017,93.5
+1387,Lisburn and Castlereagh,2018,96.4
+1388,Lisburn and Castlereagh,2019,100.0
+1389,Lisburn and Castlereagh,2020,85.0
+1390,Lisburn and Castlereagh,2021,96.4
+1391,Lisburn and Castlereagh,2022,101.1
+1392,Mid and East Antrim,2017,114.7
+1393,Mid and East Antrim,2018,98.0
+1394,Mid and East Antrim,2019,100.0
+1395,Mid and East Antrim,2020,92.1
+1396,Mid and East Antrim,2021,97.0
+1397,Mid and East Antrim,2022,97.8
+1398,Fermanagh and Omagh,2017,95.3
+1399,Fermanagh and Omagh,2018,97.9
+1400,Fermanagh and Omagh,2019,100.0
+1401,Fermanagh and Omagh,2020,89.1
+1402,Fermanagh and Omagh,2021,99.0
+1403,Fermanagh and Omagh,2022,100.7
+1404,Extra-Regio,2017,94.4
+1405,Extra-Regio,2018,99.0
+1406,Extra-Regio,2019,100.0
+1407,Extra-Regio,2020,99.0
+1408,Extra-Regio,2021,73.2
+1409,Extra-Regio,2022,71.0
+1410,United Kingdom less Extra-Regio,2017,97.0
+1411,United Kingdom less Extra-Regio,2018,98.4
+1412,United Kingdom less Extra-Regio,2019,100.0
+1413,United Kingdom less Extra-Regio,2020,89.1
+1414,United Kingdom less Extra-Regio,2021,97.6
+1415,United Kingdom less Extra-Regio,2022,101.5

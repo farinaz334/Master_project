@@ -1,0 +1,91 @@
+,Region,Year,Table A.10  Identifiable expenditure on housing and community amenities
+0,North East,2017,415
+1,North East,2018,444
+2,North East,2019,540
+3,North East,2020,458
+4,North East,2021,450
+5,North West,2017,780
+6,North West,2018,844
+7,North West,2019,1027
+8,North West,2020,975
+9,North West,2021,996
+10,Yorkshire and The Humber,2017,885
+11,Yorkshire and The Humber,2018,895
+12,Yorkshire and The Humber,2019,843
+13,Yorkshire and The Humber,2020,853
+14,Yorkshire and The Humber,2021,839
+15,East Midlands,2017,516
+16,East Midlands,2018,516
+17,East Midlands,2019,593
+18,East Midlands,2020,647
+19,East Midlands,2021,701
+20,West Midlands,2017,682
+21,West Midlands,2018,727
+22,West Midlands,2019,1051
+23,West Midlands,2020,960
+24,West Midlands,2021,1010
+25,East,2017,622
+26,East,2018,781
+27,East,2019,996
+28,East,2020,932
+29,East,2021,1040
+30,London,2017,2639
+31,London,2018,2422
+32,London,2019,3050
+33,London,2020,2879
+34,London,2021,3308
+35,South East,2017,1027
+36,South East,2018,1107
+37,South East,2019,1262
+38,South East,2020,1317
+39,South East,2021,1406
+40,South West,2017,526
+41,South West,2018,527
+42,South West,2019,724
+43,South West,2020,713
+44,South West,2021,727
+45,England,2017,8091
+46,England,2018,8262
+47,England,2019,10083
+48,England,2020,9734
+49,England,2021,10477
+50,Scotland,2017,1847
+51,Scotland,2018,2225
+52,Scotland,2019,2321
+53,Scotland,2020,2087
+54,Scotland,2021,2625
+55,Wales,2017,711
+56,Wales,2018,815
+57,Wales,2019,966
+58,Wales,2020,838
+59,Wales,2021,1181
+60,Northern Ireland,2017,757
+61,Northern Ireland,2018,846
+62,Northern Ireland,2019,842
+63,Northern Ireland,2020,1019
+64,Northern Ireland,2021,1104
+65,UK identifiable expenditure,2017,11406
+66,UK identifiable expenditure,2018,12149
+67,UK identifiable expenditure,2019,14212
+68,UK identifiable expenditure,2020,13679
+69,UK identifiable expenditure,2021,15386
+70,Outside the UK,2017,-
+71,Outside the UK,2018,-
+72,Outside the UK,2019,-
+73,Outside the UK,2020,-
+74,Outside the UK,2021,-
+75,Total identifiable expenditure,2017,11406
+76,Total identifiable expenditure,2018,12149
+77,Total identifiable expenditure,2019,14212
+78,Total identifiable expenditure,2020,13679
+79,Total identifiable expenditure,2021,15386
+80,Non-identifiable expenditure ,2017,-
+81,Non-identifiable expenditure ,2018,-
+82,Non-identifiable expenditure ,2019,-
+83,Non-identifiable expenditure ,2020,-
+84,Non-identifiable expenditure ,2021,-
+85,Total Expenditure on Services,2017,11406
+86,Total Expenditure on Services,2018,12149
+87,Total Expenditure on Services,2019,14212
+88,Total Expenditure on Services,2020,13679
+89,Total Expenditure on Services,2021,15386

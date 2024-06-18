@@ -1,0 +1,91 @@
+,Region,Year,Table A.3a  Total current and capital identifiable expenditure
+0,North East,2014,219
+1,North East,2015,224
+2,North East,2016,211
+3,North East,2017,207
+4,North East,2018,228
+5,North West,2014,557
+6,North West,2015,554
+7,North West,2016,535
+8,North West,2017,486
+9,North West,2018,545
+10,Yorkshire and The Humber,2014,394
+11,Yorkshire and The Humber,2015,350
+12,Yorkshire and The Humber,2016,346
+13,Yorkshire and The Humber,2017,354
+14,Yorkshire and The Humber,2018,366
+15,East Midlands,2014,422
+16,East Midlands,2015,391
+17,East Midlands,2016,371
+18,East Midlands,2017,413
+19,East Midlands,2018,432
+20,West Midlands,2014,425
+21,West Midlands,2015,490
+22,West Midlands,2016,412
+23,West Midlands,2017,505
+24,West Midlands,2018,520
+25,East,2014,504
+26,East,2015,648
+27,East,2016,567
+28,East,2017,562
+29,East,2018,579
+30,London,2014,779
+31,London,2015,703
+32,London,2016,692
+33,London,2017,1013
+34,London,2018,799
+35,South East,2014,777
+36,South East,2015,830
+37,South East,2016,711
+38,South East,2017,1325
+39,South East,2018,938
+40,South West,2014,419
+41,South West,2015,547
+42,South West,2016,443
+43,South West,2017,535
+44,South West,2018,518
+45,England,2014,4496
+46,England,2015,4737
+47,England,2016,4288
+48,England,2017,5402
+49,England,2018,4925
+50,Scotland,2014,1096
+51,Scotland,2015,1126
+52,Scotland,2016,1120
+53,Scotland,2017,1085
+54,Scotland,2018,1078
+55,Wales,2014,499
+56,Wales,2015,522
+57,Wales,2016,487
+58,Wales,2017,505
+59,Wales,2018,523
+60,Northern Ireland,2014,413
+61,Northern Ireland,2015,455
+62,Northern Ireland,2016,389
+63,Northern Ireland,2017,345
+64,Northern Ireland,2018,363
+65,UK identifiable expenditure,2014,6504
+66,UK identifiable expenditure,2015,6840
+67,UK identifiable expenditure,2016,6285
+68,UK identifiable expenditure,2017,7337
+69,UK identifiable expenditure,2018,6889
+70,Outside the UK,2014,305
+71,Outside the UK,2015,300
+72,Outside the UK,2016,308
+73,Outside the UK,2017,295
+74,Outside the UK,2018,347
+75,Total identifiable expenditure,2014,6809
+76,Total identifiable expenditure,2015,7140
+77,Total identifiable expenditure,2016,6593
+78,Total identifiable expenditure,2017,7632
+79,Total identifiable expenditure,2018,7236
+80,Non-identifiable expenditure,2014,4312
+81,Non-identifiable expenditure,2015,4249
+82,Non-identifiable expenditure,2016,4548
+83,Non-identifiable expenditure,2017,4769
+84,Non-identifiable expenditure,2018,4984
+85,Total Expenditure on Services,2014,11121
+86,Total Expenditure on Services,2015,11389
+87,Total Expenditure on Services,2016,11141
+88,Total Expenditure on Services,2017,12400
+89,Total Expenditure on Services,2018,12220

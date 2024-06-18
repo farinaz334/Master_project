@@ -1,0 +1,1417 @@
+,Region,Year,Gross value added (Balanced) at current basic prices
+0,United Kingdom,2017,1856764
+1,United Kingdom,2018,1920289
+2,United Kingdom,2019,1995708
+3,United Kingdom,2020,1897957
+4,United Kingdom,2021,2046636
+5,United Kingdom,2022,2246047
+6,England,2017,1598480
+7,England,2018,1650168
+8,England,2019,1716439
+9,England,2020,1637936
+10,England,2021,1768787
+11,England,2022,1940267
+12,North East,2017,52688
+13,North East,2018,53530
+14,North East,2019,55926
+15,North East,2020,52799
+16,North East,2021,57334
+17,North East,2022,63107
+18,Tees Valley and Durham,2017,21428
+19,Tees Valley and Durham,2018,22174
+20,Tees Valley and Durham,2019,22918
+21,Tees Valley and Durham,2020,22586
+22,Tees Valley and Durham,2021,24211
+23,Tees Valley and Durham,2022,26381
+24,Hartlepool and Stockton-on-Tees,2017,6209
+25,Hartlepool and Stockton-on-Tees,2018,6254
+26,Hartlepool and Stockton-on-Tees,2019,6569
+27,Hartlepool and Stockton-on-Tees,2020,6569
+28,Hartlepool and Stockton-on-Tees,2021,6937
+29,Hartlepool and Stockton-on-Tees,2022,7534
+30,South Teesside,2017,4473
+31,South Teesside,2018,4752
+32,South Teesside,2019,4804
+33,South Teesside,2020,4570
+34,South Teesside,2021,4970
+35,South Teesside,2022,5481
+36,Darlington,2017,2555
+37,Darlington,2018,2522
+38,Darlington,2019,2495
+39,Darlington,2020,2301
+40,Darlington,2021,2546
+41,Darlington,2022,2712
+42,Durham CC,2017,8190
+43,Durham CC,2018,8646
+44,Durham CC,2019,9050
+45,Durham CC,2020,9145
+46,Durham CC,2021,9758
+47,Durham CC,2022,10654
+48,"Northumberland, and Tyne and Wear",2017,31260
+49,"Northumberland, and Tyne and Wear",2018,31357
+50,"Northumberland, and Tyne and Wear",2019,33009
+51,"Northumberland, and Tyne and Wear",2020,30213
+52,"Northumberland, and Tyne and Wear",2021,33123
+53,"Northumberland, and Tyne and Wear",2022,36727
+54,Northumberland,2017,4993
+55,Northumberland,2018,5034
+56,Northumberland,2019,5357
+57,Northumberland,2020,5097
+58,Northumberland,2021,5488
+59,Northumberland,2022,6300
+60,Tyneside,2017,19380
+61,Tyneside,2018,19532
+62,Tyneside,2019,20449
+63,Tyneside,2020,18804
+64,Tyneside,2021,21064
+65,Tyneside,2022,23196
+66,Sunderland,2017,6888
+67,Sunderland,2018,6791
+68,Sunderland,2019,7203
+69,Sunderland,2020,6312
+70,Sunderland,2021,6571
+71,Sunderland,2022,7231
+72,North West,2017,176776
+73,North West,2018,181259
+74,North West,2019,189804
+75,North West,2020,185450
+76,North West,2021,199671
+77,North West,2022,219707
+78,Cumbria,2017,11527
+79,Cumbria,2018,11775
+80,Cumbria,2019,12415
+81,Cumbria,2020,11432
+82,Cumbria,2021,12212
+83,Cumbria,2022,13263
+84,West Cumbria,2017,4795
+85,West Cumbria,2018,4932
+86,West Cumbria,2019,5056
+87,West Cumbria,2020,4729
+88,West Cumbria,2021,4913
+89,West Cumbria,2022,5188
+90,East Cumbria,2017,6732
+91,East Cumbria,2018,6844
+92,East Cumbria,2019,7359
+93,East Cumbria,2020,6702
+94,East Cumbria,2021,7298
+95,East Cumbria,2022,8075
+96,Greater Manchester,2017,69158
+97,Greater Manchester,2018,72175
+98,Greater Manchester,2019,75264
+99,Greater Manchester,2020,75395
+100,Greater Manchester,2021,80667
+101,Greater Manchester,2022,89516
+102,Manchester,2017,22669
+103,Manchester,2018,23476
+104,Manchester,2019,25281
+105,Manchester,2020,24782
+106,Manchester,2021,27504
+107,Manchester,2022,31506
+108,Greater Manchester South West,2017,15724
+109,Greater Manchester South West,2018,16797
+110,Greater Manchester South West,2019,17424
+111,Greater Manchester South West,2020,17847
+112,Greater Manchester South West,2021,19180
+113,Greater Manchester South West,2022,20993
+114,Greater Manchester South East,2017,9809
+115,Greater Manchester South East,2018,10184
+116,Greater Manchester South East,2019,10291
+117,Greater Manchester South East,2020,10483
+118,Greater Manchester South East,2021,10848
+119,Greater Manchester South East,2022,11989
+120,Greater Manchester North West,2017,10564
+121,Greater Manchester North West,2018,10999
+122,Greater Manchester North West,2019,10975
+123,Greater Manchester North West,2020,11316
+124,Greater Manchester North West,2021,11844
+125,Greater Manchester North West,2022,12774
+126,Greater Manchester North East,2017,10393
+127,Greater Manchester North East,2018,10719
+128,Greater Manchester North East,2019,11293
+129,Greater Manchester North East,2020,10967
+130,Greater Manchester North East,2021,11291
+131,Greater Manchester North East,2022,12253
+132,Lancashire,2017,32780
+133,Lancashire,2018,32954
+134,Lancashire,2019,34189
+135,Lancashire,2020,32959
+136,Lancashire,2021,36171
+137,Lancashire,2022,39601
+138,Blackburn with Darwen,2017,3019
+139,Blackburn with Darwen,2018,3049
+140,Blackburn with Darwen,2019,3142
+141,Blackburn with Darwen,2020,3094
+142,Blackburn with Darwen,2021,3433
+143,Blackburn with Darwen,2022,3837
+144,Blackpool,2017,2516
+145,Blackpool,2018,2614
+146,Blackpool,2019,2843
+147,Blackpool,2020,2663
+148,Blackpool,2021,2795
+149,Blackpool,2022,3187
+150,Lancaster and Wyre,2017,4309
+151,Lancaster and Wyre,2018,4374
+152,Lancaster and Wyre,2019,4611
+153,Lancaster and Wyre,2020,4491
+154,Lancaster and Wyre,2021,4711
+155,Lancaster and Wyre,2022,5258
+156,Mid Lancashire,2017,12518
+157,Mid Lancashire,2018,12261
+158,Mid Lancashire,2019,12468
+159,Mid Lancashire,2020,12179
+160,Mid Lancashire,2021,13537
+161,Mid Lancashire,2022,14690
+162,East Lancashire,2017,6026
+163,East Lancashire,2018,6122
+164,East Lancashire,2019,6224
+165,East Lancashire,2020,5840
+166,East Lancashire,2021,6414
+167,East Lancashire,2022,6823
+168,Chorley and West Lancashire,2017,4390
+169,Chorley and West Lancashire,2018,4534
+170,Chorley and West Lancashire,2019,4901
+171,Chorley and West Lancashire,2020,4692
+172,Chorley and West Lancashire,2021,5281
+173,Chorley and West Lancashire,2022,5806
+174,Cheshire,2017,31342
+175,Cheshire,2018,32046
+176,Cheshire,2019,33686
+177,Cheshire,2020,32402
+178,Cheshire,2021,34040
+179,Cheshire,2022,37739
+180,Warrington,2017,7559
+181,Warrington,2018,7612
+182,Warrington,2019,8137
+183,Warrington,2020,8105
+184,Warrington,2021,8643
+185,Warrington,2022,9273
+186,Cheshire East,2017,13346
+187,Cheshire East,2018,13788
+188,Cheshire East,2019,14245
+189,Cheshire East,2020,13848
+190,Cheshire East,2021,13765
+191,Cheshire East,2022,15244
+192,Cheshire West and Chester,2017,10438
+193,Cheshire West and Chester,2018,10645
+194,Cheshire West and Chester,2019,11304
+195,Cheshire West and Chester,2020,10449
+196,Cheshire West and Chester,2021,11632
+197,Cheshire West and Chester,2022,13222
+198,Merseyside,2017,31968
+199,Merseyside,2018,32310
+200,Merseyside,2019,34250
+201,Merseyside,2020,33262
+202,Merseyside,2021,36582
+203,Merseyside,2022,39589
+204,East Merseyside,2017,10247
+205,East Merseyside,2018,10323
+206,East Merseyside,2019,10772
+207,East Merseyside,2020,10137
+208,East Merseyside,2021,11312
+209,East Merseyside,2022,11823
+210,Liverpool,2017,12806
+211,Liverpool,2018,12958
+212,Liverpool,2019,14078
+213,Liverpool,2020,13599
+214,Liverpool,2021,15061
+215,Liverpool,2022,16693
+216,Sefton,2017,4038
+217,Sefton,2018,4106
+218,Sefton,2019,4174
+219,Sefton,2020,4196
+220,Sefton,2021,4663
+221,Sefton,2022,4991
+222,Wirral,2017,4878
+223,Wirral,2018,4923
+224,Wirral,2019,5227
+225,Wirral,2020,5330
+226,Wirral,2021,5546
+227,Wirral,2022,6081
+228,Yorkshire and The Humber,2017,120103
+229,Yorkshire and The Humber,2018,123864
+230,Yorkshire and The Humber,2019,128454
+231,Yorkshire and The Humber,2020,123702
+232,Yorkshire and The Humber,2021,137913
+233,Yorkshire and The Humber,2022,151325
+234,East Yorkshire and Northern Lincolnshire,2017,19651
+235,East Yorkshire and Northern Lincolnshire,2018,20116
+236,East Yorkshire and Northern Lincolnshire,2019,21452
+237,East Yorkshire and Northern Lincolnshire,2020,20071
+238,East Yorkshire and Northern Lincolnshire,2021,23928
+239,East Yorkshire and Northern Lincolnshire,2022,26718
+240,"Kingston upon Hull, City of",2017,5758
+241,"Kingston upon Hull, City of",2018,5938
+242,"Kingston upon Hull, City of",2019,6039
+243,"Kingston upon Hull, City of",2020,5433
+244,"Kingston upon Hull, City of",2021,6325
+245,"Kingston upon Hull, City of",2022,6930
+246,East Riding of Yorkshire,2017,6416
+247,East Riding of Yorkshire,2018,6827
+248,East Riding of Yorkshire,2019,7130
+249,East Riding of Yorkshire,2020,6924
+250,East Riding of Yorkshire,2021,8057
+251,East Riding of Yorkshire,2022,8935
+252,North and North East Lincolnshire,2017,7477
+253,North and North East Lincolnshire,2018,7351
+254,North and North East Lincolnshire,2019,8283
+255,North and North East Lincolnshire,2020,7714
+256,North and North East Lincolnshire,2021,9546
+257,North and North East Lincolnshire,2022,10853
+258,North Yorkshire,2017,20666
+259,North Yorkshire,2018,20866
+260,North Yorkshire,2019,21609
+261,North Yorkshire,2020,20536
+262,North Yorkshire,2021,23396
+263,North Yorkshire,2022,25721
+264,York,2017,6210
+265,York,2018,6366
+266,York,2019,6419
+267,York,2020,5943
+268,York,2021,6776
+269,York,2022,7632
+270,North Yorkshire CC,2017,14455
+271,North Yorkshire CC,2018,14500
+272,North Yorkshire CC,2019,15190
+273,North Yorkshire CC,2020,14593
+274,North Yorkshire CC,2021,16620
+275,North Yorkshire CC,2022,18089
+276,South Yorkshire,2017,26211
+277,South Yorkshire,2018,26536
+278,South Yorkshire,2019,27584
+279,South Yorkshire,2020,27504
+280,South Yorkshire,2021,29548
+281,South Yorkshire,2022,32159
+282,"Barnsley, Doncaster and Rotherham",2017,13712
+283,"Barnsley, Doncaster and Rotherham",2018,13965
+284,"Barnsley, Doncaster and Rotherham",2019,14439
+285,"Barnsley, Doncaster and Rotherham",2020,14265
+286,"Barnsley, Doncaster and Rotherham",2021,15222
+287,"Barnsley, Doncaster and Rotherham",2022,16477
+288,Sheffield,2017,12500
+289,Sheffield,2018,12571
+290,Sheffield,2019,13146
+291,Sheffield,2020,13240
+292,Sheffield,2021,14326
+293,Sheffield,2022,15681
+294,West Yorkshire,2017,53575
+295,West Yorkshire,2018,56346
+296,West Yorkshire,2019,57807
+297,West Yorkshire,2020,55591
+298,West Yorkshire,2021,61041
+299,West Yorkshire,2022,66727
+300,Bradford,2017,9469
+301,Bradford,2018,9600
+302,Bradford,2019,9714
+303,Bradford,2020,9661
+304,Bradford,2021,10352
+305,Bradford,2022,11411
+306,Leeds,2017,24964
+307,Leeds,2018,26483
+308,Leeds,2019,27405
+309,Leeds,2020,25982
+310,Leeds,2021,28920
+311,Leeds,2022,31959
+312,Calderdale and Kirklees,2017,12059
+313,Calderdale and Kirklees,2018,12718
+314,Calderdale and Kirklees,2019,12776
+315,Calderdale and Kirklees,2020,12273
+316,Calderdale and Kirklees,2021,13483
+317,Calderdale and Kirklees,2022,14164
+318,Wakefield,2017,7083
+319,Wakefield,2018,7546
+320,Wakefield,2019,7913
+321,Wakefield,2020,7674
+322,Wakefield,2021,8287
+323,Wakefield,2022,9194
+324,East Midlands,2017,104846
+325,East Midlands,2018,109472
+326,East Midlands,2019,113367
+327,East Midlands,2020,110744
+328,East Midlands,2021,119820
+329,East Midlands,2022,128795
+330,Derbyshire and Nottinghamshire,2017,46489
+331,Derbyshire and Nottinghamshire,2018,48454
+332,Derbyshire and Nottinghamshire,2019,50389
+333,Derbyshire and Nottinghamshire,2020,50451
+334,Derbyshire and Nottinghamshire,2021,53281
+335,Derbyshire and Nottinghamshire,2022,56294
+336,Derby,2017,6706
+337,Derby,2018,7171
+338,Derby,2019,7456
+339,Derby,2020,7751
+340,Derby,2021,8155
+341,Derby,2022,8380
+342,East Derbyshire,2017,5458
+343,East Derbyshire,2018,5715
+344,East Derbyshire,2019,5883
+345,East Derbyshire,2020,6152
+346,East Derbyshire,2021,6664
+347,East Derbyshire,2022,7016
+348,South and West Derbyshire,2017,9652
+349,South and West Derbyshire,2018,10021
+350,South and West Derbyshire,2019,10730
+351,South and West Derbyshire,2020,10580
+352,South and West Derbyshire,2021,11138
+353,South and West Derbyshire,2022,11471
+354,Nottingham,2017,10142
+355,Nottingham,2018,10324
+356,Nottingham,2019,10504
+357,Nottingham,2020,10237
+358,Nottingham,2021,10693
+359,Nottingham,2022,11477
+360,North Nottinghamshire,2017,8593
+361,North Nottinghamshire,2018,8878
+362,North Nottinghamshire,2019,9272
+363,North Nottinghamshire,2020,9168
+364,North Nottinghamshire,2021,9709
+365,North Nottinghamshire,2022,10245
+366,South Nottinghamshire,2017,5938
+367,South Nottinghamshire,2018,6345
+368,South Nottinghamshire,2019,6544
+369,South Nottinghamshire,2020,6565
+370,South Nottinghamshire,2021,6924
+371,South Nottinghamshire,2022,7704
+372,"Leicestershire, Rutland and Northamptonshire",2017,43622
+373,"Leicestershire, Rutland and Northamptonshire",2018,45780
+374,"Leicestershire, Rutland and Northamptonshire",2019,47001
+375,"Leicestershire, Rutland and Northamptonshire",2020,44753
+376,"Leicestershire, Rutland and Northamptonshire",2021,49590
+377,"Leicestershire, Rutland and Northamptonshire",2022,54370
+378,Leicester,2017,8246
+379,Leicester,2018,8619
+380,Leicester,2019,8910
+381,Leicester,2020,8550
+382,Leicester,2021,9401
+383,Leicester,2022,9996
+384,Leicestershire CC and Rutland,2017,17388
+385,Leicestershire CC and Rutland,2018,18077
+386,Leicestershire CC and Rutland,2019,18374
+387,Leicestershire CC and Rutland,2020,17265
+388,Leicestershire CC and Rutland,2021,19329
+389,Leicestershire CC and Rutland,2022,21571
+390,West Northamptonshire,2017,11456
+391,West Northamptonshire,2018,12240
+392,West Northamptonshire,2019,12644
+393,West Northamptonshire,2020,12144
+394,West Northamptonshire,2021,13420
+395,West Northamptonshire,2022,14602
+396,North Northamptonshire,2017,6532
+397,North Northamptonshire,2018,6843
+398,North Northamptonshire,2019,7073
+399,North Northamptonshire,2020,6795
+400,North Northamptonshire,2021,7440
+401,North Northamptonshire,2022,8202
+402,Lincolnshire,2017,14735
+403,Lincolnshire,2018,15238
+404,Lincolnshire,2019,15977
+405,Lincolnshire,2020,15540
+406,Lincolnshire,2021,16948
+407,Lincolnshire,2022,18131
+408,Lincolnshire CC,2017,14735
+409,Lincolnshire CC,2018,15238
+410,Lincolnshire CC,2019,15977
+411,Lincolnshire CC,2020,15540
+412,Lincolnshire CC,2021,16948
+413,Lincolnshire CC,2022,18131
+414,West Midlands,2017,135971
+415,West Midlands,2018,140639
+416,West Midlands,2019,143430
+417,West Midlands,2020,136085
+418,West Midlands,2021,147563
+419,West Midlands,2022,160370
+420,"Herefordshire, Worcestershire and Warwickshire",2017,36037
+421,"Herefordshire, Worcestershire and Warwickshire",2018,37289
+422,"Herefordshire, Worcestershire and Warwickshire",2019,37951
+423,"Herefordshire, Worcestershire and Warwickshire",2020,36320
+424,"Herefordshire, Worcestershire and Warwickshire",2021,37581
+425,"Herefordshire, Worcestershire and Warwickshire",2022,40522
+426,"Herefordshire, County of",2017,3692
+427,"Herefordshire, County of",2018,3894
+428,"Herefordshire, County of",2019,4049
+429,"Herefordshire, County of",2020,3893
+430,"Herefordshire, County of",2021,4170
+431,"Herefordshire, County of",2022,4456
+432,Worcestershire CC,2017,13544
+433,Worcestershire CC,2018,14048
+434,Worcestershire CC,2019,14422
+435,Worcestershire CC,2020,14111
+436,Worcestershire CC,2021,14467
+437,Worcestershire CC,2022,15614
+438,Warwickshire CC,2017,18801
+439,Warwickshire CC,2018,19347
+440,Warwickshire CC,2019,19480
+441,Warwickshire CC,2020,18316
+442,Warwickshire CC,2021,18945
+443,Warwickshire CC,2022,20452
+444,Shropshire and Staffordshire,2017,33314
+445,Shropshire and Staffordshire,2018,34718
+446,Shropshire and Staffordshire,2019,35710
+447,Shropshire and Staffordshire,2020,34629
+448,Shropshire and Staffordshire,2021,39995
+449,Shropshire and Staffordshire,2022,43512
+450,Telford and Wrekin,2017,4263
+451,Telford and Wrekin,2018,4418
+452,Telford and Wrekin,2019,4651
+453,Telford and Wrekin,2020,4733
+454,Telford and Wrekin,2021,5457
+455,Telford and Wrekin,2022,6143
+456,Shropshire CC,2017,6000
+457,Shropshire CC,2018,6301
+458,Shropshire CC,2019,6336
+459,Shropshire CC,2020,6155
+460,Shropshire CC,2021,7080
+461,Shropshire CC,2022,7856
+462,Stoke-on-Trent,2017,5239
+463,Stoke-on-Trent,2018,5619
+464,Stoke-on-Trent,2019,5792
+465,Stoke-on-Trent,2020,5757
+466,Stoke-on-Trent,2021,6515
+467,Stoke-on-Trent,2022,6845
+468,Staffordshire CC,2017,17812
+469,Staffordshire CC,2018,18379
+470,Staffordshire CC,2019,18931
+471,Staffordshire CC,2020,17985
+472,Staffordshire CC,2021,20944
+473,Staffordshire CC,2022,22668
+474,West Midlands,2017,66620
+475,West Midlands,2018,68632
+476,West Midlands,2019,69770
+477,West Midlands,2020,65135
+478,West Midlands,2021,69987
+479,West Midlands,2022,76335
+480,Birmingham,2017,26650
+481,Birmingham,2018,27729
+482,Birmingham,2019,28337
+483,Birmingham,2020,26871
+484,Birmingham,2021,29240
+485,Birmingham,2022,32013
+486,Solihull,2017,9142
+487,Solihull,2018,9401
+488,Solihull,2019,9666
+489,Solihull,2020,8471
+490,Solihull,2021,8823
+491,Solihull,2022,9711
+492,Coventry,2017,9818
+493,Coventry,2018,9963
+494,Coventry,2019,10181
+495,Coventry,2020,9410
+496,Coventry,2021,9894
+497,Coventry,2022,10723
+498,Dudley,2017,5098
+499,Dudley,2018,5152
+500,Dudley,2019,5273
+501,Dudley,2020,4931
+502,Dudley,2021,5440
+503,Dudley,2022,5931
+504,Sandwell,2017,6333
+505,Sandwell,2018,6560
+506,Sandwell,2019,6391
+507,Sandwell,2020,6231
+508,Sandwell,2021,6393
+509,Sandwell,2022,6798
+510,Walsall,2017,4723
+511,Walsall,2018,4702
+512,Walsall,2019,4666
+513,Walsall,2020,4295
+514,Walsall,2021,4738
+515,Walsall,2022,5088
+516,Wolverhampton,2017,4856
+517,Wolverhampton,2018,5125
+518,Wolverhampton,2019,5256
+519,Wolverhampton,2020,4927
+520,Wolverhampton,2021,5460
+521,Wolverhampton,2022,6069
+522,East,2017,158425
+523,East,2018,161840
+524,East,2019,168719
+525,East,2020,159550
+526,East,2021,173381
+527,East,2022,189303
+528,East Anglia,2017,61929
+529,East Anglia,2018,62793
+530,East Anglia,2019,66515
+531,East Anglia,2020,64644
+532,East Anglia,2021,68903
+533,East Anglia,2022,74203
+534,Peterborough,2017,6309
+535,Peterborough,2018,6783
+536,Peterborough,2019,6449
+537,Peterborough,2020,6327
+538,Peterborough,2021,6838
+539,Peterborough,2022,7189
+540,Cambridgeshire CC,2017,19150
+541,Cambridgeshire CC,2018,19455
+542,Cambridgeshire CC,2019,20760
+543,Cambridgeshire CC,2020,20931
+544,Cambridgeshire CC,2021,22054
+545,Cambridgeshire CC,2022,23844
+546,Suffolk CC,2017,18105
+547,Suffolk CC,2018,18402
+548,Suffolk CC,2019,19445
+549,Suffolk CC,2020,18347
+550,Suffolk CC,2021,19465
+551,Suffolk CC,2022,20811
+552,Norwich and East Norfolk,2017,8997
+553,Norwich and East Norfolk,2018,8736
+554,Norwich and East Norfolk,2019,9943
+555,Norwich and East Norfolk,2020,9236
+556,Norwich and East Norfolk,2021,10042
+557,Norwich and East Norfolk,2022,11093
+558,North and West Norfolk,2017,4473
+559,North and West Norfolk,2018,4508
+560,North and West Norfolk,2019,4652
+561,North and West Norfolk,2020,4511
+562,North and West Norfolk,2021,4798
+563,North and West Norfolk,2022,5179
+564,Breckland and South Norfolk,2017,4895
+565,Breckland and South Norfolk,2018,4908
+566,Breckland and South Norfolk,2019,5265
+567,Breckland and South Norfolk,2020,5293
+568,Breckland and South Norfolk,2021,5706
+569,Breckland and South Norfolk,2022,6087
+570,Bedfordshire and Hertfordshire,2017,54434
+571,Bedfordshire and Hertfordshire,2018,55595
+572,Bedfordshire and Hertfordshire,2019,57802
+573,Bedfordshire and Hertfordshire,2020,54114
+574,Bedfordshire and Hertfordshire,2021,58784
+575,Bedfordshire and Hertfordshire,2022,64283
+576,Luton,2017,5833
+577,Luton,2018,5908
+578,Luton,2019,6134
+579,Luton,2020,5239
+580,Luton,2021,5530
+581,Luton,2022,6649
+582,Hertfordshire CC,2017,38619
+583,Hertfordshire CC,2018,39590
+584,Hertfordshire CC,2019,41352
+585,Hertfordshire CC,2020,39505
+586,Hertfordshire CC,2021,42875
+587,Hertfordshire CC,2022,46435
+588,Bedford,2017,3981
+589,Bedford,2018,4023
+590,Bedford,2019,4298
+591,Bedford,2020,3920
+592,Bedford,2021,4415
+593,Bedford,2022,4763
+594,Central Bedfordshire,2017,6000
+595,Central Bedfordshire,2018,6074
+596,Central Bedfordshire,2019,6018
+597,Central Bedfordshire,2020,5450
+598,Central Bedfordshire,2021,5964
+599,Central Bedfordshire,2022,6436
+600,Essex,2017,42062
+601,Essex,2018,43452
+602,Essex,2019,44402
+603,Essex,2020,40792
+604,Essex,2021,45694
+605,Essex,2022,50817
+606,Southend-on-Sea,2017,3044
+607,Southend-on-Sea,2018,3151
+608,Southend-on-Sea,2019,3080
+609,Southend-on-Sea,2020,2714
+610,Southend-on-Sea,2021,3052
+611,Southend-on-Sea,2022,3321
+612,Thurrock,2017,4031
+613,Thurrock,2018,4239
+614,Thurrock,2019,4354
+615,Thurrock,2020,4100
+616,Thurrock,2021,4703
+617,Thurrock,2022,5616
+618,Essex Haven Gateway,2017,9979
+619,Essex Haven Gateway,2018,10141
+620,Essex Haven Gateway,2019,10229
+621,Essex Haven Gateway,2020,9316
+622,Essex Haven Gateway,2021,10516
+623,Essex Haven Gateway,2022,11492
+624,West Essex,2017,8366
+625,West Essex,2018,8634
+626,West Essex,2019,8628
+627,West Essex,2020,7662
+628,West Essex,2021,8557
+629,West Essex,2022,9404
+630,Heart of Essex,2017,8981
+631,Heart of Essex,2018,9341
+632,Heart of Essex,2019,9721
+633,Heart of Essex,2020,8902
+634,Heart of Essex,2021,9918
+635,Heart of Essex,2022,10865
+636,Essex Thames Gateway,2017,7661
+637,Essex Thames Gateway,2018,7947
+638,Essex Thames Gateway,2019,8390
+639,Essex Thames Gateway,2020,8099
+640,Essex Thames Gateway,2021,8948
+641,Essex Thames Gateway,2022,10119
+642,London,2017,441384
+643,London,2018,458081
+644,London,2019,473666
+645,London,2020,437281
+646,London,2021,469594
+647,London,2022,519178
+648,Inner London - West,2017,198548
+649,Inner London - West,2018,208653
+650,Inner London - West,2019,217250
+651,Inner London - West,2020,207366
+652,Inner London - West,2021,229232
+653,Inner London - West,2022,253205
+654,Camden and City of London,2017,102981
+655,Camden and City of London,2018,107791
+656,Camden and City of London,2019,112582
+657,Camden and City of London,2020,110876
+658,Camden and City of London,2021,124069
+659,Camden and City of London,2022,133952
+660,Westminster,2017,68426
+661,Westminster,2018,72075
+662,Westminster,2019,75551
+663,Westminster,2020,69927
+664,Westminster,2021,77550
+665,Westminster,2022,89449
+666,Kensington & Chelsea and Hammersmith & Fulham,2017,19835
+667,Kensington & Chelsea and Hammersmith & Fulham,2018,21342
+668,Kensington & Chelsea and Hammersmith & Fulham,2019,21650
+669,Kensington & Chelsea and Hammersmith & Fulham,2020,19852
+670,Kensington & Chelsea and Hammersmith & Fulham,2021,20546
+671,Kensington & Chelsea and Hammersmith & Fulham,2022,22088
+672,Wandsworth,2017,7306
+673,Wandsworth,2018,7445
+674,Wandsworth,2019,7466
+675,Wandsworth,2020,6711
+676,Wandsworth,2021,7068
+677,Wandsworth,2022,7716
+678,Inner London - East,2017,107853
+679,Inner London - East,2018,110810
+680,Inner London - East,2019,113626
+681,Inner London - East,2020,105984
+682,Inner London - East,2021,112319
+683,Inner London - East,2022,125855
+684,Hackney and Newham,2017,13334
+685,Hackney and Newham,2018,14291
+686,Hackney and Newham,2019,15927
+687,Hackney and Newham,2020,15481
+688,Hackney and Newham,2021,17181
+689,Hackney and Newham,2022,18845
+690,Tower Hamlets,2017,37034
+691,Tower Hamlets,2018,36113
+692,Tower Hamlets,2019,35718
+693,Tower Hamlets,2020,34615
+694,Tower Hamlets,2021,35246
+695,Tower Hamlets,2022,36556
+696,Haringey and Islington,2017,22807
+697,Haringey and Islington,2018,23837
+698,Haringey and Islington,2019,24264
+699,Haringey and Islington,2020,22048
+700,Haringey and Islington,2021,23877
+701,Haringey and Islington,2022,30020
+702,Lewisham and Southwark,2017,22206
+703,Lewisham and Southwark,2018,23787
+704,Lewisham and Southwark,2019,25055
+705,Lewisham and Southwark,2020,22826
+706,Lewisham and Southwark,2021,23804
+707,Lewisham and Southwark,2022,25581
+708,Lambeth,2017,12473
+709,Lambeth,2018,12782
+710,Lambeth,2019,12663
+711,Lambeth,2020,11016
+712,Lambeth,2021,12211
+713,Lambeth,2022,14853
+714,Outer London - East and North East,2017,36133
+715,Outer London - East and North East,2018,37366
+716,Outer London - East and North East,2019,38731
+717,Outer London - East and North East,2020,33795
+718,Outer London - East and North East,2021,36296
+719,Outer London - East and North East,2022,40053
+720,Bexley and Greenwich,2017,11413
+721,Bexley and Greenwich,2018,11636
+722,Bexley and Greenwich,2019,12246
+723,Bexley and Greenwich,2020,10604
+724,Bexley and Greenwich,2021,11021
+725,Bexley and Greenwich,2022,12008
+726,Barking & Dagenham and Havering,2017,8755
+727,Barking & Dagenham and Havering,2018,9072
+728,Barking & Dagenham and Havering,2019,9343
+729,Barking & Dagenham and Havering,2020,8195
+730,Barking & Dagenham and Havering,2021,9115
+731,Barking & Dagenham and Havering,2022,10284
+732,Redbridge and Waltham Forest,2017,8918
+733,Redbridge and Waltham Forest,2018,9136
+734,Redbridge and Waltham Forest,2019,9296
+735,Redbridge and Waltham Forest,2020,8033
+736,Redbridge and Waltham Forest,2021,8774
+737,Redbridge and Waltham Forest,2022,9875
+738,Enfield,2017,7047
+739,Enfield,2018,7523
+740,Enfield,2019,7846
+741,Enfield,2020,6963
+742,Enfield,2021,7387
+743,Enfield,2022,7886
+744,Outer London - South,2017,30948
+745,Outer London - South,2018,31905
+746,Outer London - South,2019,32894
+747,Outer London - South,2020,29802
+748,Outer London - South,2021,30737
+749,Outer London - South,2022,33137
+750,Bromley,2017,7760
+751,Bromley,2018,7875
+752,Bromley,2019,7738
+753,Bromley,2020,6957
+754,Bromley,2021,7004
+755,Bromley,2022,7493
+756,Croydon,2017,8635
+757,Croydon,2018,9348
+758,Croydon,2019,10023
+759,Croydon,2020,9330
+760,Croydon,2021,9840
+761,Croydon,2022,10676
+762,"Merton, Kingston upon Thames and Sutton",2017,14553
+763,"Merton, Kingston upon Thames and Sutton",2018,14682
+764,"Merton, Kingston upon Thames and Sutton",2019,15133
+765,"Merton, Kingston upon Thames and Sutton",2020,13515
+766,"Merton, Kingston upon Thames and Sutton",2021,13893
+767,"Merton, Kingston upon Thames and Sutton",2022,14969
+768,Outer London - West and North West,2017,67902
+769,Outer London - West and North West,2018,69347
+770,Outer London - West and North West,2019,71165
+771,Outer London - West and North West,2020,60333
+772,Outer London - West and North West,2021,61009
+773,Outer London - West and North West,2022,66927
+774,Barnet,2017,8272
+775,Barnet,2018,8575
+776,Barnet,2019,8823
+777,Barnet,2020,8381
+778,Barnet,2021,8778
+779,Barnet,2022,9633
+780,Brent,2017,8376
+781,Brent,2018,8422
+782,Brent,2019,8975
+783,Brent,2020,8188
+784,Brent,2021,8317
+785,Brent,2022,8967
+786,Ealing,2017,9103
+787,Ealing,2018,9234
+788,Ealing,2019,9302
+789,Ealing,2020,8839
+790,Ealing,2021,8786
+791,Ealing,2022,8984
+792,Harrow and Hillingdon,2017,18847
+793,Harrow and Hillingdon,2018,19326
+794,Harrow and Hillingdon,2019,19625
+795,Harrow and Hillingdon,2020,15399
+796,Harrow and Hillingdon,2021,15860
+797,Harrow and Hillingdon,2022,17370
+798,Hounslow and Richmond upon Thames,2017,23303
+799,Hounslow and Richmond upon Thames,2018,23790
+800,Hounslow and Richmond upon Thames,2019,24441
+801,Hounslow and Richmond upon Thames,2020,19526
+802,Hounslow and Richmond upon Thames,2021,19269
+803,Hounslow and Richmond upon Thames,2022,21972
+804,South East,2017,270971
+805,South East,2018,280535
+806,South East,2019,296218
+807,South East,2020,291964
+808,South East,2021,307222
+809,South East,2022,336218
+810,"Berkshire, Buckinghamshire and Oxfordshire",2017,90273
+811,"Berkshire, Buckinghamshire and Oxfordshire",2018,94733
+812,"Berkshire, Buckinghamshire and Oxfordshire",2019,100111
+813,"Berkshire, Buckinghamshire and Oxfordshire",2020,101164
+814,"Berkshire, Buckinghamshire and Oxfordshire",2021,106346
+815,"Berkshire, Buckinghamshire and Oxfordshire",2022,116001
+816,Berkshire,2017,41795
+817,Berkshire,2018,44226
+818,Berkshire,2019,46509
+819,Berkshire,2020,47235
+820,Berkshire,2021,49830
+821,Berkshire,2022,54689
+822,Milton Keynes,2017,13011
+823,Milton Keynes,2018,13511
+824,Milton Keynes,2019,13869
+825,Milton Keynes,2020,13442
+826,Milton Keynes,2021,14314
+827,Milton Keynes,2022,15040
+828,Buckinghamshire CC,2017,14402
+829,Buckinghamshire CC,2018,14938
+830,Buckinghamshire CC,2019,16144
+831,Buckinghamshire CC,2020,15859
+832,Buckinghamshire CC,2021,16685
+833,Buckinghamshire CC,2022,18054
+834,Oxfordshire CC,2017,21065
+835,Oxfordshire CC,2018,22059
+836,Oxfordshire CC,2019,23589
+837,Oxfordshire CC,2020,24628
+838,Oxfordshire CC,2021,25517
+839,Oxfordshire CC,2022,28218
+840,"Surrey, East and West Sussex",2017,82713
+841,"Surrey, East and West Sussex",2018,84802
+842,"Surrey, East and West Sussex",2019,88802
+843,"Surrey, East and West Sussex",2020,86540
+844,"Surrey, East and West Sussex",2021,91329
+845,"Surrey, East and West Sussex",2022,99982
+846,Brighton and Hove,2017,8104
+847,Brighton and Hove,2018,8454
+848,Brighton and Hove,2019,8885
+849,Brighton and Hove,2020,8733
+850,Brighton and Hove,2021,9623
+851,Brighton and Hove,2022,11263
+852,East Sussex CC,2017,8754
+853,East Sussex CC,2018,8957
+854,East Sussex CC,2019,9344
+855,East Sussex CC,2020,9255
+856,East Sussex CC,2021,10050
+857,East Sussex CC,2022,10688
+858,West Surrey,2017,29357
+859,West Surrey,2018,30616
+860,West Surrey,2019,32643
+861,West Surrey,2020,33092
+862,West Surrey,2021,33688
+863,West Surrey,2022,35312
+864,East Surrey,2017,14167
+865,East Surrey,2018,13465
+866,East Surrey,2019,13791
+867,East Surrey,2020,12958
+868,East Surrey,2021,13882
+869,East Surrey,2022,15994
+870,West Sussex (South West),2017,10272
+871,West Sussex (South West),2018,10731
+872,West Sussex (South West),2019,11155
+873,West Sussex (South West),2020,10924
+874,West Sussex (South West),2021,11649
+875,West Sussex (South West),2022,12923
+876,West Sussex (North East),2017,12059
+877,West Sussex (North East),2018,12579
+878,West Sussex (North East),2019,12983
+879,West Sussex (North East),2020,11577
+880,West Sussex (North East),2021,12437
+881,West Sussex (North East),2022,13802
+882,Hampshire and Isle of Wight,2017,56612
+883,Hampshire and Isle of Wight,2018,58072
+884,Hampshire and Isle of Wight,2019,62018
+885,Hampshire and Isle of Wight,2020,59699
+886,Hampshire and Isle of Wight,2021,63009
+887,Hampshire and Isle of Wight,2022,69543
+888,Portsmouth,2017,5832
+889,Portsmouth,2018,5929
+890,Portsmouth,2019,6436
+891,Portsmouth,2020,6371
+892,Portsmouth,2021,6743
+893,Portsmouth,2022,7509
+894,Southampton,2017,8276
+895,Southampton,2018,8558
+896,Southampton,2019,8856
+897,Southampton,2020,8475
+898,Southampton,2021,8931
+899,Southampton,2022,10023
+900,Isle of Wight,2017,2420
+901,Isle of Wight,2018,2451
+902,Isle of Wight,2019,2637
+903,Isle of Wight,2020,2554
+904,Isle of Wight,2021,2747
+905,Isle of Wight,2022,3067
+906,South Hampshire,2017,10851
+907,South Hampshire,2018,10576
+908,South Hampshire,2019,11044
+909,South Hampshire,2020,10627
+910,South Hampshire,2021,11259
+911,South Hampshire,2022,12145
+912,Central Hampshire,2017,15134
+913,Central Hampshire,2018,15491
+914,Central Hampshire,2019,16422
+915,Central Hampshire,2020,15462
+916,Central Hampshire,2021,16664
+917,Central Hampshire,2022,18662
+918,North Hampshire,2017,14098
+919,North Hampshire,2018,15068
+920,North Hampshire,2019,16623
+921,North Hampshire,2020,16209
+922,North Hampshire,2021,16665
+923,North Hampshire,2022,18137
+924,Kent,2017,41373
+925,Kent,2018,42927
+926,Kent,2019,45287
+927,Kent,2020,44561
+928,Kent,2021,46538
+929,Kent,2022,50692
+930,Medway,2017,5353
+931,Medway,2018,5491
+932,Medway,2019,5902
+933,Medway,2020,5993
+934,Medway,2021,6000
+935,Medway,2022,6715
+936,Kent Thames Gateway,2017,7951
+937,Kent Thames Gateway,2018,8250
+938,Kent Thames Gateway,2019,8799
+939,Kent Thames Gateway,2020,8590
+940,Kent Thames Gateway,2021,9237
+941,Kent Thames Gateway,2022,9523
+942,East Kent,2017,9756
+943,East Kent,2018,10070
+944,East Kent,2019,10328
+945,East Kent,2020,10081
+946,East Kent,2021,10525
+947,East Kent,2022,11841
+948,Mid Kent,2017,6853
+949,Mid Kent,2018,7176
+950,Mid Kent,2019,7745
+951,Mid Kent,2020,7641
+952,Mid Kent,2021,7966
+953,Mid Kent,2022,8726
+954,West Kent,2017,11461
+955,West Kent,2018,11941
+956,West Kent,2019,12513
+957,West Kent,2020,12257
+958,West Kent,2021,12810
+959,West Kent,2022,13887
+960,South West,2017,137317
+961,South West,2018,140949
+962,South West,2019,146854
+963,South West,2020,140362
+964,South West,2021,156289
+965,South West,2022,172264
+966,"Gloucestershire, Wiltshire and Bath/Bristol Area",2017,72232
+967,"Gloucestershire, Wiltshire and Bath/Bristol Area",2018,74295
+968,"Gloucestershire, Wiltshire and Bath/Bristol Area",2019,78015
+969,"Gloucestershire, Wiltshire and Bath/Bristol Area",2020,74882
+970,"Gloucestershire, Wiltshire and Bath/Bristol Area",2021,82317
+971,"Gloucestershire, Wiltshire and Bath/Bristol Area",2022,90942
+972,"Bristol, City of",2017,15242
+973,"Bristol, City of",2018,15103
+974,"Bristol, City of",2019,15910
+975,"Bristol, City of",2020,15369
+976,"Bristol, City of",2021,17543
+977,"Bristol, City of",2022,19306
+978,"Bath and North East Somerset, North Somerset and South Gloucestershire",2017,19147
+979,"Bath and North East Somerset, North Somerset and South Gloucestershire",2018,19957
+980,"Bath and North East Somerset, North Somerset and South Gloucestershire",2019,20945
+981,"Bath and North East Somerset, North Somerset and South Gloucestershire",2020,20488
+982,"Bath and North East Somerset, North Somerset and South Gloucestershire",2021,22523
+983,"Bath and North East Somerset, North Somerset and South Gloucestershire",2022,25333
+984,Gloucestershire CC,2017,17129
+985,Gloucestershire CC,2018,17591
+986,Gloucestershire CC,2019,18743
+987,Gloucestershire CC,2020,17851
+988,Gloucestershire CC,2021,19470
+989,Gloucestershire CC,2022,20442
+990,Swindon,2017,9283
+991,Swindon,2018,9818
+992,Swindon,2019,10174
+993,Swindon,2020,9334
+994,Swindon,2021,9795
+995,Swindon,2022,11469
+996,Wiltshire,2017,11432
+997,Wiltshire,2018,11826
+998,Wiltshire,2019,12243
+999,Wiltshire,2020,11840
+1000,Wiltshire,2021,12987
+1001,Wiltshire,2022,14391
+1002,Dorset and Somerset,2017,29468
+1003,Dorset and Somerset,2018,30410
+1004,Dorset and Somerset,2019,31335
+1005,Dorset and Somerset,2020,30187
+1006,Dorset and Somerset,2021,32900
+1007,Dorset and Somerset,2022,36045
+1008,Somerset CC,2017,11609
+1009,Somerset CC,2018,12035
+1010,Somerset CC,2019,12307
+1011,Somerset CC,2020,11960
+1012,Somerset CC,2021,12768
+1013,Somerset CC,2022,14113
+1014,"Bournemouth, Christchurch and Poole",2017,10432
+1015,"Bournemouth, Christchurch and Poole",2018,10422
+1016,"Bournemouth, Christchurch and Poole",2019,10827
+1017,"Bournemouth, Christchurch and Poole",2020,10372
+1018,"Bournemouth, Christchurch and Poole",2021,11449
+1019,"Bournemouth, Christchurch and Poole",2022,12346
+1020,Dorset,2017,7427
+1021,Dorset,2018,7953
+1022,Dorset,2019,8201
+1023,Dorset,2020,7855
+1024,Dorset,2021,8683
+1025,Dorset,2022,9585
+1026,Cornwall and Isles of Scilly,2017,10839
+1027,Cornwall and Isles of Scilly,2018,11116
+1028,Cornwall and Isles of Scilly,2019,11485
+1029,Cornwall and Isles of Scilly,2020,10950
+1030,Cornwall and Isles of Scilly,2021,12602
+1031,Cornwall and Isles of Scilly,2022,13852
+1032,Cornwall and Isles of Scilly,2017,10839
+1033,Cornwall and Isles of Scilly,2018,11116
+1034,Cornwall and Isles of Scilly,2019,11485
+1035,Cornwall and Isles of Scilly,2020,10950
+1036,Cornwall and Isles of Scilly,2021,12602
+1037,Cornwall and Isles of Scilly,2022,13852
+1038,Devon,2017,24778
+1039,Devon,2018,25126
+1040,Devon,2019,26019
+1041,Devon,2020,24343
+1042,Devon,2021,28469
+1043,Devon,2022,31426
+1044,Plymouth,2017,5570
+1045,Plymouth,2018,5724
+1046,Plymouth,2019,5874
+1047,Plymouth,2020,5487
+1048,Plymouth,2021,6253
+1049,Plymouth,2022,6970
+1050,Torbay,2017,1891
+1051,Torbay,2018,1839
+1052,Torbay,2019,1932
+1053,Torbay,2020,1839
+1054,Torbay,2021,2208
+1055,Torbay,2022,2404
+1056,Devon CC,2017,17318
+1057,Devon CC,2018,17564
+1058,Devon CC,2019,18214
+1059,Devon CC,2020,17017
+1060,Devon CC,2021,20008
+1061,Devon CC,2022,22053
+1062,Wales,2017,62822
+1063,Wales,2018,65188
+1064,Wales,2019,68040
+1065,Wales,2020,64841
+1066,Wales,2021,68053
+1067,Wales,2022,74545
+1068,West Wales and The Valleys,2017,34413
+1069,West Wales and The Valleys,2018,35513
+1070,West Wales and The Valleys,2019,37196
+1071,West Wales and The Valleys,2020,34913
+1072,West Wales and The Valleys,2021,36823
+1073,West Wales and The Valleys,2022,40408
+1074,Isle of Anglesey,2017,1019
+1075,Isle of Anglesey,2018,1082
+1076,Isle of Anglesey,2019,1151
+1077,Isle of Anglesey,2020,1014
+1078,Isle of Anglesey,2021,1139
+1079,Isle of Anglesey,2022,1345
+1080,Gwynedd,2017,2345
+1081,Gwynedd,2018,2389
+1082,Gwynedd,2019,2464
+1083,Gwynedd,2020,2217
+1084,Gwynedd,2021,2426
+1085,Gwynedd,2022,2611
+1086,Conwy and Denbighshire,2017,3587
+1087,Conwy and Denbighshire,2018,3658
+1088,Conwy and Denbighshire,2019,3751
+1089,Conwy and Denbighshire,2020,3622
+1090,Conwy and Denbighshire,2021,3796
+1091,Conwy and Denbighshire,2022,4131
+1092,South West Wales,2017,6767
+1093,South West Wales,2018,6876
+1094,South West Wales,2019,7334
+1095,South West Wales,2020,6796
+1096,South West Wales,2021,7241
+1097,South West Wales,2022,8201
+1098,Central Valleys,2017,5082
+1099,Central Valleys,2018,5177
+1100,Central Valleys,2019,5290
+1101,Central Valleys,2020,5073
+1102,Central Valleys,2021,5195
+1103,Central Valleys,2022,5777
+1104,Gwent Valleys,2017,5079
+1105,Gwent Valleys,2018,5316
+1106,Gwent Valleys,2019,5586
+1107,Gwent Valleys,2020,5320
+1108,Gwent Valleys,2021,5641
+1109,Gwent Valleys,2022,6268
+1110,Bridgend and Neath Port Talbot,2017,5289
+1111,Bridgend and Neath Port Talbot,2018,5478
+1112,Bridgend and Neath Port Talbot,2019,5906
+1113,Bridgend and Neath Port Talbot,2020,5517
+1114,Bridgend and Neath Port Talbot,2021,5882
+1115,Bridgend and Neath Port Talbot,2022,6302
+1116,Swansea,2017,5244
+1117,Swansea,2018,5537
+1118,Swansea,2019,5714
+1119,Swansea,2020,5353
+1120,Swansea,2021,5502
+1121,Swansea,2022,5774
+1122,East Wales,2017,28410
+1123,East Wales,2018,29675
+1124,East Wales,2019,30845
+1125,East Wales,2020,29928
+1126,East Wales,2021,31230
+1127,East Wales,2022,34136
+1128,Monmouthshire and Newport,2017,5578
+1129,Monmouthshire and Newport,2018,6048
+1130,Monmouthshire and Newport,2019,6231
+1131,Monmouthshire and Newport,2020,5981
+1132,Monmouthshire and Newport,2021,6130
+1133,Monmouthshire and Newport,2022,6644
+1134,Cardiff and Vale of Glamorgan,2017,13510
+1135,Cardiff and Vale of Glamorgan,2018,13796
+1136,Cardiff and Vale of Glamorgan,2019,14494
+1137,Cardiff and Vale of Glamorgan,2020,14160
+1138,Cardiff and Vale of Glamorgan,2021,14858
+1139,Cardiff and Vale of Glamorgan,2022,16217
+1140,Flintshire and Wrexham,2017,7151
+1141,Flintshire and Wrexham,2018,7583
+1142,Flintshire and Wrexham,2019,7852
+1143,Flintshire and Wrexham,2020,7562
+1144,Flintshire and Wrexham,2021,7941
+1145,Flintshire and Wrexham,2022,8725
+1146,Powys,2017,2170
+1147,Powys,2018,2248
+1148,Powys,2019,2268
+1149,Powys,2020,2225
+1150,Powys,2021,2300
+1151,Powys,2022,2550
+1152,Scotland,2017,140538
+1153,Scotland,2018,143341
+1154,Scotland,2019,148903
+1155,Scotland,2020,140724
+1156,Scotland,2021,151499
+1157,Scotland,2022,165714
+1158,North Eastern Scotland,2017,16482
+1159,North Eastern Scotland,2018,16688
+1160,North Eastern Scotland,2019,16933
+1161,North Eastern Scotland,2020,15383
+1162,North Eastern Scotland,2021,16089
+1163,North Eastern Scotland,2022,17905
+1164,Aberdeen City and Aberdeenshire,2017,16482
+1165,Aberdeen City and Aberdeenshire,2018,16688
+1166,Aberdeen City and Aberdeenshire,2019,16933
+1167,Aberdeen City and Aberdeenshire,2020,15383
+1168,Aberdeen City and Aberdeenshire,2021,16089
+1169,Aberdeen City and Aberdeenshire,2022,17905
+1170,Highlands and Islands,2017,11555
+1171,Highlands and Islands,2018,11737
+1172,Highlands and Islands,2019,12227
+1173,Highlands and Islands,2020,11379
+1174,Highlands and Islands,2021,12165
+1175,Highlands and Islands,2022,13302
+1176,"Caithness and Sutherland, and Ross and Cromarty",2017,1965
+1177,"Caithness and Sutherland, and Ross and Cromarty",2018,2004
+1178,"Caithness and Sutherland, and Ross and Cromarty",2019,2124
+1179,"Caithness and Sutherland, and Ross and Cromarty",2020,2063
+1180,"Caithness and Sutherland, and Ross and Cromarty",2021,2221
+1181,"Caithness and Sutherland, and Ross and Cromarty",2022,2463
+1182,"Inverness and Nairn, Moray, Badenoch and Strathspey",2017,5402
+1183,"Inverness and Nairn, Moray, Badenoch and Strathspey",2018,5543
+1184,"Inverness and Nairn, Moray, Badenoch and Strathspey",2019,5639
+1185,"Inverness and Nairn, Moray, Badenoch and Strathspey",2020,5239
+1186,"Inverness and Nairn, Moray, Badenoch and Strathspey",2021,5599
+1187,"Inverness and Nairn, Moray, Badenoch and Strathspey",2022,6193
+1188,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2017,2373
+1189,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2018,2397
+1190,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2019,2535
+1191,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2020,2278
+1192,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2021,2452
+1193,"Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",2022,2691
+1194,Na h-Eileanan Siar,2017,500
+1195,Na h-Eileanan Siar,2018,524
+1196,Na h-Eileanan Siar,2019,565
+1197,Na h-Eileanan Siar,2020,549
+1198,Na h-Eileanan Siar,2021,581
+1199,Na h-Eileanan Siar,2022,583
+1200,Orkney Islands,2017,552
+1201,Orkney Islands,2018,515
+1202,Orkney Islands,2019,555
+1203,Orkney Islands,2020,512
+1204,Orkney Islands,2021,553
+1205,Orkney Islands,2022,603
+1206,Shetland Islands,2017,762
+1207,Shetland Islands,2018,755
+1208,Shetland Islands,2019,810
+1209,Shetland Islands,2020,739
+1210,Shetland Islands,2021,759
+1211,Shetland Islands,2022,770
+1212,Eastern Scotland,2017,55069
+1213,Eastern Scotland,2018,56581
+1214,Eastern Scotland,2019,59124
+1215,Eastern Scotland,2020,55933
+1216,Eastern Scotland,2021,61037
+1217,Eastern Scotland,2022,66842
+1218,Angus and Dundee City,2017,5252
+1219,Angus and Dundee City,2018,5439
+1220,Angus and Dundee City,2019,5749
+1221,Angus and Dundee City,2020,5400
+1222,Angus and Dundee City,2021,5877
+1223,Angus and Dundee City,2022,6330
+1224,Clackmannanshire and Fife,2017,8060
+1225,Clackmannanshire and Fife,2018,8066
+1226,Clackmannanshire and Fife,2019,8421
+1227,Clackmannanshire and Fife,2020,8227
+1228,Clackmannanshire and Fife,2021,8876
+1229,Clackmannanshire and Fife,2022,9690
+1230,East Lothian and Midlothian,2017,3123
+1231,East Lothian and Midlothian,2018,3305
+1232,East Lothian and Midlothian,2019,3449
+1233,East Lothian and Midlothian,2020,3295
+1234,East Lothian and Midlothian,2021,3638
+1235,East Lothian and Midlothian,2022,3886
+1236,City of Edinburgh,2017,23882
+1237,City of Edinburgh,2018,24659
+1238,City of Edinburgh,2019,25759
+1239,City of Edinburgh,2020,24200
+1240,City of Edinburgh,2021,26582
+1241,City of Edinburgh,2022,29713
+1242,Falkirk,2017,3669
+1243,Falkirk,2018,3814
+1244,Falkirk,2019,3995
+1245,Falkirk,2020,3800
+1246,Falkirk,2021,4074
+1247,Falkirk,2022,4199
+1248,"Perth and Kinross, and Stirling",2017,6634
+1249,"Perth and Kinross, and Stirling",2018,6614
+1250,"Perth and Kinross, and Stirling",2019,6943
+1251,"Perth and Kinross, and Stirling",2020,6273
+1252,"Perth and Kinross, and Stirling",2021,6816
+1253,"Perth and Kinross, and Stirling",2022,7232
+1254,West Lothian,2017,4449
+1255,West Lothian,2018,4685
+1256,West Lothian,2019,4808
+1257,West Lothian,2020,4737
+1258,West Lothian,2021,5173
+1259,West Lothian,2022,5791
+1260,West Central Scotland,2017,38614
+1261,West Central Scotland,2018,39435
+1262,West Central Scotland,2019,41231
+1263,West Central Scotland,2020,39663
+1264,West Central Scotland,2021,42987
+1265,West Central Scotland,2022,46642
+1266,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2017,3690
+1267,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2018,3832
+1268,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2019,3974
+1269,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2020,3672
+1270,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2021,3991
+1271,"East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",2022,4371
+1272,Glasgow City,2017,20671
+1273,Glasgow City,2018,21075
+1274,Glasgow City,2019,22250
+1275,Glasgow City,2020,21531
+1276,Glasgow City,2021,23438
+1277,Glasgow City,2022,25845
+1278,"Inverclyde, East Renfrewshire, and Renfrewshire",2017,6536
+1279,"Inverclyde, East Renfrewshire, and Renfrewshire",2018,6627
+1280,"Inverclyde, East Renfrewshire, and Renfrewshire",2019,6734
+1281,"Inverclyde, East Renfrewshire, and Renfrewshire",2020,6447
+1282,"Inverclyde, East Renfrewshire, and Renfrewshire",2021,7053
+1283,"Inverclyde, East Renfrewshire, and Renfrewshire",2022,7218
+1284,North Lanarkshire,2017,7716
+1285,North Lanarkshire,2018,7901
+1286,North Lanarkshire,2019,8274
+1287,North Lanarkshire,2020,8013
+1288,North Lanarkshire,2021,8505
+1289,North Lanarkshire,2022,9208
+1290,Southern Scotland,2017,18818
+1291,Southern Scotland,2018,18899
+1292,Southern Scotland,2019,19387
+1293,Southern Scotland,2020,18365
+1294,Southern Scotland,2021,19222
+1295,Southern Scotland,2022,21023
+1296,Scottish Borders,2017,2257
+1297,Scottish Borders,2018,2367
+1298,Scottish Borders,2019,2422
+1299,Scottish Borders,2020,2335
+1300,Scottish Borders,2021,2512
+1301,Scottish Borders,2022,2506
+1302,Dumfries and Galloway,2017,3395
+1303,Dumfries and Galloway,2018,3393
+1304,Dumfries and Galloway,2019,3559
+1305,Dumfries and Galloway,2020,3397
+1306,Dumfries and Galloway,2021,3537
+1307,Dumfries and Galloway,2022,3782
+1308,East Ayrshire and North Ayrshire mainland,2017,4010
+1309,East Ayrshire and North Ayrshire mainland,2018,3974
+1310,East Ayrshire and North Ayrshire mainland,2019,4079
+1311,East Ayrshire and North Ayrshire mainland,2020,3989
+1312,East Ayrshire and North Ayrshire mainland,2021,4240
+1313,East Ayrshire and North Ayrshire mainland,2022,4720
+1314,South Ayrshire,2017,2361
+1315,South Ayrshire,2018,2424
+1316,South Ayrshire,2019,2446
+1317,South Ayrshire,2020,2168
+1318,South Ayrshire,2021,2263
+1319,South Ayrshire,2022,2552
+1320,South Lanarkshire,2017,6795
+1321,South Lanarkshire,2018,6741
+1322,South Lanarkshire,2019,6881
+1323,South Lanarkshire,2020,6476
+1324,South Lanarkshire,2021,6670
+1325,South Lanarkshire,2022,7463
+1326,Northern Ireland,2017,40166
+1327,Northern Ireland,2018,41406
+1328,Northern Ireland,2019,43816
+1329,Northern Ireland,2020,42110
+1330,Northern Ireland,2021,46193
+1331,Northern Ireland,2022,49901
+1332,Northern Ireland,2017,40166
+1333,Northern Ireland,2018,41406
+1334,Northern Ireland,2019,43816
+1335,Northern Ireland,2020,42110
+1336,Northern Ireland,2021,46193
+1337,Northern Ireland,2022,49901
+1338,Belfast,2017,12772
+1339,Belfast,2018,13189
+1340,Belfast,2019,13715
+1341,Belfast,2020,13067
+1342,Belfast,2021,14978
+1343,Belfast,2022,16187
+1344,"Armagh City, Banbridge and Craigavon",2017,3642
+1345,"Armagh City, Banbridge and Craigavon",2018,3889
+1346,"Armagh City, Banbridge and Craigavon",2019,4119
+1347,"Armagh City, Banbridge and Craigavon",2020,3942
+1348,"Armagh City, Banbridge and Craigavon",2021,4256
+1349,"Armagh City, Banbridge and Craigavon",2022,4575
+1350,"Newry, Mourne and Down",2017,2882
+1351,"Newry, Mourne and Down",2018,3016
+1352,"Newry, Mourne and Down",2019,3239
+1353,"Newry, Mourne and Down",2020,3127
+1354,"Newry, Mourne and Down",2021,3317
+1355,"Newry, Mourne and Down",2022,3606
+1356,Ards and North Down,2017,2019
+1357,Ards and North Down,2018,2120
+1358,Ards and North Down,2019,2240
+1359,Ards and North Down,2020,2150
+1360,Ards and North Down,2021,2252
+1361,Ards and North Down,2022,2342
+1362,Derry City and Strabane,2017,2657
+1363,Derry City and Strabane,2018,2725
+1364,Derry City and Strabane,2019,2954
+1365,Derry City and Strabane,2020,2965
+1366,Derry City and Strabane,2021,3119
+1367,Derry City and Strabane,2022,3421
+1368,Mid Ulster,2017,3097
+1369,Mid Ulster,2018,3386
+1370,Mid Ulster,2019,3678
+1371,Mid Ulster,2020,3403
+1372,Mid Ulster,2021,3769
+1373,Mid Ulster,2022,4185
+1374,Causeway Coast and Glens,2017,2154
+1375,Causeway Coast and Glens,2018,2156
+1376,Causeway Coast and Glens,2019,2245
+1377,Causeway Coast and Glens,2020,2133
+1378,Causeway Coast and Glens,2021,2330
+1379,Causeway Coast and Glens,2022,2504
+1380,Antrim and Newtownabbey,2017,3103
+1381,Antrim and Newtownabbey,2018,3183
+1382,Antrim and Newtownabbey,2019,3394
+1383,Antrim and Newtownabbey,2020,3409
+1384,Antrim and Newtownabbey,2021,3547
+1385,Antrim and Newtownabbey,2022,3746
+1386,Lisburn and Castlereagh,2017,3017
+1387,Lisburn and Castlereagh,2018,3210
+1388,Lisburn and Castlereagh,2019,3445
+1389,Lisburn and Castlereagh,2020,3260
+1390,Lisburn and Castlereagh,2021,3563
+1391,Lisburn and Castlereagh,2022,3907
+1392,Mid and East Antrim,2017,2764
+1393,Mid and East Antrim,2018,2356
+1394,Mid and East Antrim,2019,2491
+1395,Mid and East Antrim,2020,2397
+1396,Mid and East Antrim,2021,2581
+1397,Mid and East Antrim,2022,2769
+1398,Fermanagh and Omagh,2017,2061
+1399,Fermanagh and Omagh,2018,2176
+1400,Fermanagh and Omagh,2019,2295
+1401,Fermanagh and Omagh,2020,2256
+1402,Fermanagh and Omagh,2021,2481
+1403,Fermanagh and Omagh,2022,2660
+1404,Extra-Regio,2017,14758
+1405,Extra-Regio,2018,20187
+1406,Extra-Regio,2019,18510
+1407,Extra-Regio,2020,12346
+1408,Extra-Regio,2021,12105
+1409,Extra-Regio,2022,15620
+1410,United Kingdom less Extra-Regio,2017,1842006
+1411,United Kingdom less Extra-Regio,2018,1900102
+1412,United Kingdom less Extra-Regio,2019,1977198
+1413,United Kingdom less Extra-Regio,2020,1885611
+1414,United Kingdom less Extra-Regio,2021,2034531
+1415,United Kingdom less Extra-Regio,2022,2230427

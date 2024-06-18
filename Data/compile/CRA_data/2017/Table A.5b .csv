@@ -1,0 +1,91 @@
+,Region,Year,Table A.5b  Identifiable expenditure on general public services (of which: international services)
+0,North East,2017,2
+1,North East,2018,2
+2,North East,2019,3
+3,North East,2020,2
+4,North East,2021,2
+5,North West,2017,6
+6,North West,2018,7
+7,North West,2019,7
+8,North West,2020,6
+9,North West,2021,7
+10,Yorkshire and The Humber,2017,5
+11,Yorkshire and The Humber,2018,5
+12,Yorkshire and The Humber,2019,5
+13,Yorkshire and The Humber,2020,4
+14,Yorkshire and The Humber,2021,5
+15,East Midlands,2017,4
+16,East Midlands,2018,4
+17,East Midlands,2019,5
+18,East Midlands,2020,4
+19,East Midlands,2021,5
+20,West Midlands,2017,5
+21,West Midlands,2018,6
+22,West Midlands,2019,6
+23,West Midlands,2020,5
+24,West Midlands,2021,6
+25,East,2017,5
+26,East,2018,6
+27,East,2019,6
+28,East,2020,5
+29,East,2021,6
+30,London,2017,8
+31,London,2018,8
+32,London,2019,8
+33,London,2020,7
+34,London,2021,8
+35,South East,2017,8
+36,South East,2018,9
+37,South East,2019,9
+38,South East,2020,7
+39,South East,2021,9
+40,South West,2017,5
+41,South West,2018,5
+42,South West,2019,5
+43,South West,2020,5
+44,South West,2021,5
+45,England,2017,48
+46,England,2018,52
+47,England,2019,53
+48,England,2020,45
+49,England,2021,53
+50,Scotland,2017,6
+51,Scotland,2018,6
+52,Scotland,2019,6
+53,Scotland,2020,5
+54,Scotland,2021,11
+55,Wales,2017,3
+56,Wales,2018,3
+57,Wales,2019,3
+58,Wales,2020,3
+59,Wales,2021,3
+60,Northern Ireland,2017,2
+61,Northern Ireland,2018,2
+62,Northern Ireland,2019,2
+63,Northern Ireland,2020,2
+64,Northern Ireland,2021,2
+65,UK identifiable expenditure,2017,58
+66,UK identifiable expenditure,2018,63
+67,UK identifiable expenditure,2019,63
+68,UK identifiable expenditure,2020,54
+69,UK identifiable expenditure,2021,68
+70,Outside the UK,2017,9485
+71,Outside the UK,2018,10456
+72,Outside the UK,2019,10196
+73,Outside the UK,2020,9665
+74,Outside the UK,2021,6313
+75,Total identifiable expenditure,2017,9542
+76,Total identifiable expenditure,2018,10520
+77,Total identifiable expenditure,2019,10259
+78,Total identifiable expenditure,2020,9720
+79,Total identifiable expenditure,2021,6381
+80,Non-identifiable expenditure,2017,880
+81,Non-identifiable expenditure,2018,1347
+82,Non-identifiable expenditure,2019,1444
+83,Non-identifiable expenditure,2020,1497
+84,Non-identifiable expenditure,2021,1716
+85,Total Expenditure on Services,2017,10422
+86,Total Expenditure on Services,2018,11867
+87,Total Expenditure on Services,2019,11703
+88,Total Expenditure on Services,2020,11217
+89,Total Expenditure on Services,2021,8097
