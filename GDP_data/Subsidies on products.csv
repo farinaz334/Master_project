@@ -1,0 +1,277 @@
+,Region,Year,Subsidies on products
+0,North East,2000,100
+1,North East,2001,103
+2,North East,2002,148
+3,North East,2003,171
+4,North East,2004,194
+5,North East,2005,140
+6,North East,2006,162
+7,North East,2007,171
+8,North East,2008,181
+9,North East,2009,204
+10,North East,2010,245
+11,North East,2011,202
+12,North East,2012,222
+13,North East,2013,240
+14,North East,2014,275
+15,North East,2015,316
+16,North East,2016,365
+17,North East,2017,464
+18,North East,2018,486
+19,North East,2019,575
+20,North East,2020,590
+21,North East,2021,471
+22,North East,2022,872
+23,North West,2000,339
+24,North West,2001,364
+25,North West,2002,463
+26,North West,2003,524
+27,North West,2004,536
+28,North West,2005,402
+29,North West,2006,487
+30,North West,2007,443
+31,North West,2008,415
+32,North West,2009,463
+33,North West,2010,491
+34,North West,2011,459
+35,North West,2012,489
+36,North West,2013,473
+37,North West,2014,535
+38,North West,2015,632
+39,North West,2016,686
+40,North West,2017,782
+41,North West,2018,914
+42,North West,2019,944
+43,North West,2020,1400
+44,North West,2021,1082
+45,North West,2022,2266
+46,Yorkshire and The Humber,2000,514
+47,Yorkshire and The Humber,2001,523
+48,Yorkshire and The Humber,2002,695
+49,Yorkshire and The Humber,2003,774
+50,Yorkshire and The Humber,2004,795
+51,Yorkshire and The Humber,2005,571
+52,Yorkshire and The Humber,2006,658
+53,Yorkshire and The Humber,2007,613
+54,Yorkshire and The Humber,2008,551
+55,Yorkshire and The Humber,2009,622
+56,Yorkshire and The Humber,2010,640
+57,Yorkshire and The Humber,2011,583
+58,Yorkshire and The Humber,2012,582
+59,Yorkshire and The Humber,2013,542
+60,Yorkshire and The Humber,2014,540
+61,Yorkshire and The Humber,2015,627
+62,Yorkshire and The Humber,2016,681
+63,Yorkshire and The Humber,2017,773
+64,Yorkshire and The Humber,2018,808
+65,Yorkshire and The Humber,2019,912
+66,Yorkshire and The Humber,2020,1226
+67,Yorkshire and The Humber,2021,1235
+68,Yorkshire and The Humber,2022,2203
+69,East Midlands,2000,492
+70,East Midlands,2001,465
+71,East Midlands,2002,507
+72,East Midlands,2003,569
+73,East Midlands,2004,605
+74,East Midlands,2005,254
+75,East Midlands,2006,300
+76,East Midlands,2007,299
+77,East Midlands,2008,284
+78,East Midlands,2009,318
+79,East Midlands,2010,349
+80,East Midlands,2011,358
+81,East Midlands,2012,395
+82,East Midlands,2013,431
+83,East Midlands,2014,512
+84,East Midlands,2015,631
+85,East Midlands,2016,716
+86,East Midlands,2017,848
+87,East Midlands,2018,890
+88,East Midlands,2019,877
+89,East Midlands,2020,1282
+90,East Midlands,2021,1011
+91,East Midlands,2022,1686
+92,West Midlands,2000,481
+93,West Midlands,2001,538
+94,West Midlands,2002,698
+95,West Midlands,2003,771
+96,West Midlands,2004,546
+97,West Midlands,2005,339
+98,West Midlands,2006,401
+99,West Midlands,2007,386
+100,West Midlands,2008,396
+101,West Midlands,2009,439
+102,West Midlands,2010,487
+103,West Midlands,2011,453
+104,West Midlands,2012,464
+105,West Midlands,2013,448
+106,West Midlands,2014,486
+107,West Midlands,2015,567
+108,West Midlands,2016,635
+109,West Midlands,2017,718
+110,West Midlands,2018,870
+111,West Midlands,2019,915
+112,West Midlands,2020,1134
+113,West Midlands,2021,914
+114,West Midlands,2022,1746
+115,East,2000,688
+116,East,2001,617
+117,East,2002,685
+118,East,2003,767
+119,East,2004,782
+120,East,2005,350
+121,East,2006,389
+122,East,2007,440
+123,East,2008,459
+124,East,2009,520
+125,East,2010,532
+126,East,2011,479
+127,East,2012,508
+128,East,2013,487
+129,East,2014,485
+130,East,2015,546
+131,East,2016,602
+132,East,2017,686
+133,East,2018,740
+134,East,2019,786
+135,East,2020,1167
+136,East,2021,1059
+137,East,2022,1913
+138,London,2000,890
+139,London,2001,891
+140,London,2002,983
+141,London,2003,1008
+142,London,2004,1122
+143,London,2005,1233
+144,London,2006,1429
+145,London,2007,1352
+146,London,2008,1281
+147,London,2009,1557
+148,London,2010,1602
+149,London,2011,1270
+150,London,2012,1720
+151,London,2013,1205
+152,London,2014,1181
+153,London,2015,1291
+154,London,2016,1432
+155,London,2017,1561
+156,London,2018,1769
+157,London,2019,1957
+158,London,2020,2675
+159,London,2021,1949
+160,London,2022,3067
+161,South East,2000,688
+162,South East,2001,741
+163,South East,2002,998
+164,South East,2003,1118
+165,South East,2004,988
+166,South East,2005,779
+167,South East,2006,995
+168,South East,2007,903
+169,South East,2008,871
+170,South East,2009,987
+171,South East,2010,1066
+172,South East,2011,1021
+173,South East,2012,1103
+174,South East,2013,1176
+175,South East,2014,1298
+176,South East,2015,1570
+177,South East,2016,1689
+178,South East,2017,1931
+179,South East,2018,2078
+180,South East,2019,2146
+181,South East,2020,3181
+182,South East,2021,2820
+183,South East,2022,3664
+184,South West,2000,484
+185,South West,2001,484
+186,South West,2002,611
+187,South West,2003,702
+188,South West,2004,697
+189,South West,2005,404
+190,South West,2006,469
+191,South West,2007,451
+192,South West,2008,437
+193,South West,2009,485
+194,South West,2010,551
+195,South West,2011,536
+196,South West,2012,562
+197,South West,2013,620
+198,South West,2014,683
+199,South West,2015,796
+200,South West,2016,856
+201,South West,2017,946
+202,South West,2018,1018
+203,South West,2019,1062
+204,South West,2020,1432
+205,South West,2021,1234
+206,South West,2022,1887
+207,Wales,2000,281
+208,Wales,2001,281
+209,Wales,2002,340
+210,Wales,2003,431
+211,Wales,2004,436
+212,Wales,2005,206
+213,Wales,2006,216
+214,Wales,2007,183
+215,Wales,2008,167
+216,Wales,2009,187
+217,Wales,2010,206
+218,Wales,2011,214
+219,Wales,2012,236
+220,Wales,2013,255
+221,Wales,2014,288
+222,Wales,2015,355
+223,Wales,2016,392
+224,Wales,2017,474
+225,Wales,2018,533
+226,Wales,2019,555
+227,Wales,2020,788
+228,Wales,2021,589
+229,Wales,2022,1329
+230,Scotland,2000,707
+231,Scotland,2001,706
+232,Scotland,2002,805
+233,Scotland,2003,956
+234,Scotland,2004,953
+235,Scotland,2005,476
+236,Scotland,2006,525
+237,Scotland,2007,508
+238,Scotland,2008,493
+239,Scotland,2009,534
+240,Scotland,2010,593
+241,Scotland,2011,584
+242,Scotland,2012,643
+243,Scotland,2013,744
+244,Scotland,2014,856
+245,Scotland,2015,1009
+246,Scotland,2016,1184
+247,Scotland,2017,1445
+248,Scotland,2018,1548
+249,Scotland,2019,1588
+250,Scotland,2020,2236
+251,Scotland,2021,2121
+252,Scotland,2022,2946
+253,Northern Ireland,2000,261
+254,Northern Ireland,2001,250
+255,Northern Ireland,2002,243
+256,Northern Ireland,2003,272
+257,Northern Ireland,2004,382
+258,Northern Ireland,2005,158
+259,Northern Ireland,2006,186
+260,Northern Ireland,2007,175
+261,Northern Ireland,2008,148
+262,Northern Ireland,2009,170
+263,Northern Ireland,2010,172
+264,Northern Ireland,2011,136
+265,Northern Ireland,2012,146
+266,Northern Ireland,2013,145
+267,Northern Ireland,2014,155
+268,Northern Ireland,2015,187
+269,Northern Ireland,2016,202
+270,Northern Ireland,2017,238
+271,Northern Ireland,2018,289
+272,Northern Ireland,2019,318
+273,Northern Ireland,2020,517
+274,Northern Ireland,2021,510
+275,Northern Ireland,2022,628

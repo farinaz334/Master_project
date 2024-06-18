@@ -1,0 +1,106 @@
+,Region,Year,"Table A.8e  Identifiable expenditure on economic affairs (of which: transport (1,2))"
+0,North East,2017,714
+1,North East,2018,854
+2,North East,2019,956
+3,North East,2020,1493
+4,North East,2021,1186
+5,North West,2017,3491
+6,North West,2018,3282
+7,North West,2019,3317
+8,North West,2020,4308
+9,North West,2021,4362
+10,Yorkshire and The Humber,2017,1639
+11,Yorkshire and The Humber,2018,1693
+12,Yorkshire and The Humber,2019,1851
+13,Yorkshire and The Humber,2020,2894
+14,Yorkshire and The Humber,2021,2505
+15,East Midlands,2017,1082
+16,East Midlands,2018,1334
+17,East Midlands,2019,1498
+18,East Midlands,2020,2273
+19,East Midlands,2021,1925
+20,West Midlands,2017,2002
+21,West Midlands,2018,2878
+22,West Midlands,2019,2999
+23,West Midlands,2020,3759
+24,West Midlands,2021,4092
+25,East,2017,2439
+26,East,2018,2956
+27,East,2019,2900
+28,East,2020,4301
+29,East,2021,3933
+30,London,2017,8274
+31,London,2018,7958
+32,London,2019,7489
+33,London,2020,12463
+34,London,2021,10661
+35,South East,2017,3225
+36,South East,2018,4088
+37,South East,2019,4865
+38,South East,2020,7335
+39,South East,2021,5825
+40,South West,2017,1626
+41,South West,2018,1688
+42,South West,2019,1930
+43,South West,2020,2738
+44,South West,2021,2414
+45,England,2017,24491
+46,England,2018,26732
+47,England,2019,27803
+48,England,2020,41563
+49,England,2021,36903
+50,Scotland,2017,3556
+51,Scotland,2018,3490
+52,Scotland,2019,3729
+53,Scotland,2020,4643
+54,Scotland,2021,4752
+55,Wales,2017,1236
+56,Wales,2018,1243
+57,Wales,2019,1305
+58,Wales,2020,1676
+59,Wales,2021,1476
+60,Northern Ireland,2017,539
+61,Northern Ireland,2018,665
+62,Northern Ireland,2019,661
+63,Northern Ireland,2020,942
+64,Northern Ireland,2021,909
+65,UK identifiable expenditure,2017,29823
+66,UK identifiable expenditure,2018,32130
+67,UK identifiable expenditure,2019,33498
+68,UK identifiable expenditure,2020,48824
+69,UK identifiable expenditure,2021,44041
+70,Outside the UK,2017,125
+71,Outside the UK,2018,128
+72,Outside the UK,2019,116
+73,Outside the UK,2020,91
+74,Outside the UK,2021,113
+75,Total identifiable expenditure,2017,29948
+76,Total identifiable expenditure,2018,32258
+77,Total identifiable expenditure,2019,33614
+78,Total identifiable expenditure,2020,48915
+79,Total identifiable expenditure,2021,44153
+80,Non-identifiable expenditure ,2017,388
+81,Non-identifiable expenditure ,2018,442
+82,Non-identifiable expenditure ,2019,806
+83,Non-identifiable expenditure ,2020,411
+84,Non-identifiable expenditure ,2021,424
+85,Total Expenditure on Services,2017,30335
+86,Total Expenditure on Services,2018,32701
+87,Total Expenditure on Services,2019,34420
+88,Total Expenditure on Services,2020,49326
+89,Total Expenditure on Services,2021,44577
+90,(1) Higher expenditure seen in 2020-21 and 2021-22 reflects the response to the Covid-19 pandemic.,2017,
+91,(1) Higher expenditure seen in 2020-21 and 2021-22 reflects the response to the Covid-19 pandemic.,2018,
+92,(1) Higher expenditure seen in 2020-21 and 2021-22 reflects the response to the Covid-19 pandemic.,2019,
+93,(1) Higher expenditure seen in 2020-21 and 2021-22 reflects the response to the Covid-19 pandemic.,2020,
+94,(1) Higher expenditure seen in 2020-21 and 2021-22 reflects the response to the Covid-19 pandemic.,2021,
+95,(2) From 2018-19 onwards the Department for Transport (DfT) changed their methodology to calculate the split across regions for railway spending. This mainly effects the regions trains travel through as well as their origins and destinations. As a result users will notice a change .,2017,
+96,(2) From 2018-19 onwards the Department for Transport (DfT) changed their methodology to calculate the split across regions for railway spending. This mainly effects the regions trains travel through as well as their origins and destinations. As a result users will notice a change .,2018,
+97,(2) From 2018-19 onwards the Department for Transport (DfT) changed their methodology to calculate the split across regions for railway spending. This mainly effects the regions trains travel through as well as their origins and destinations. As a result users will notice a change .,2019,
+98,(2) From 2018-19 onwards the Department for Transport (DfT) changed their methodology to calculate the split across regions for railway spending. This mainly effects the regions trains travel through as well as their origins and destinations. As a result users will notice a change .,2020,
+99,(2) From 2018-19 onwards the Department for Transport (DfT) changed their methodology to calculate the split across regions for railway spending. This mainly effects the regions trains travel through as well as their origins and destinations. As a result users will notice a change .,2021,
+100,(3) Trends in national roads spend are driven particularly by capital spend by Highways England which is based on where capital projects took place in each year. This means that capital expenditure is known to flucuate between regions as different programmes of work start/come to an end in each region.,2017,
+101,(3) Trends in national roads spend are driven particularly by capital spend by Highways England which is based on where capital projects took place in each year. This means that capital expenditure is known to flucuate between regions as different programmes of work start/come to an end in each region.,2018,
+102,(3) Trends in national roads spend are driven particularly by capital spend by Highways England which is based on where capital projects took place in each year. This means that capital expenditure is known to flucuate between regions as different programmes of work start/come to an end in each region.,2019,
+103,(3) Trends in national roads spend are driven particularly by capital spend by Highways England which is based on where capital projects took place in each year. This means that capital expenditure is known to flucuate between regions as different programmes of work start/come to an end in each region.,2020,
+104,(3) Trends in national roads spend are driven particularly by capital spend by Highways England which is based on where capital projects took place in each year. This means that capital expenditure is known to flucuate between regions as different programmes of work start/come to an end in each region.,2021,

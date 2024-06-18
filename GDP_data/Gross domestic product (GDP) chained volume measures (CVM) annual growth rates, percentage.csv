@@ -1,0 +1,277 @@
+,Region,Year,"Gross domestic product (GDP) chained volume measures (CVM) annual growth rates, percentage"
+0,North East,2000,2.7
+1,North East,2001,4.3
+2,North East,2002,4.1
+3,North East,2003,3.5
+4,North East,2004,5.4
+5,North East,2005,1.2
+6,North East,2006,2.9
+7,North East,2007,0.1
+8,North East,2008,-1.6
+9,North East,2009,-4.4
+10,North East,2010,2.9
+11,North East,2011,2.5
+12,North East,2012,2.1
+13,North East,2013,-0.2
+14,North East,2014,2.1
+15,North East,2015,3.3
+16,North East,2016,-0.1
+17,North East,2017,2.3
+18,North East,2018,1.1
+19,North East,2019,1.8
+20,North East,2020,-12.6
+21,North East,2021,9.8
+22,North East,2022,4.6
+23,North West,2000,2.2
+24,North West,2001,3.6
+25,North West,2002,2.3
+26,North West,2003,3.2
+27,North West,2004,3.4
+28,North West,2005,2.3
+29,North West,2006,3.1
+30,North West,2007,1.7
+31,North West,2008,-1.4
+32,North West,2009,-4.2
+33,North West,2010,3.4
+34,North West,2011,0.8
+35,North West,2012,1.9
+36,North West,2013,1.7
+37,North West,2014,3.0
+38,North West,2015,2.6
+39,North West,2016,1.6
+40,North West,2017,3.2
+41,North West,2018,0.9
+42,North West,2019,2.1
+43,North West,2020,-9.4
+44,North West,2021,9.9
+45,North West,2022,4.7
+46,Yorkshire and The Humber,2000,3.1
+47,Yorkshire and The Humber,2001,3.3
+48,Yorkshire and The Humber,2002,2.9
+49,Yorkshire and The Humber,2003,4.1
+50,Yorkshire and The Humber,2004,3.1
+51,Yorkshire and The Humber,2005,1.6
+52,Yorkshire and The Humber,2006,2.2
+53,Yorkshire and The Humber,2007,2.9
+54,Yorkshire and The Humber,2008,-2.9
+55,Yorkshire and The Humber,2009,-5.3
+56,Yorkshire and The Humber,2010,1.5
+57,Yorkshire and The Humber,2011,2.4
+58,Yorkshire and The Humber,2012,1.5
+59,Yorkshire and The Humber,2013,1.1
+60,Yorkshire and The Humber,2014,2.1
+61,Yorkshire and The Humber,2015,3.1
+62,Yorkshire and The Humber,2016,1.4
+63,Yorkshire and The Humber,2017,2.9
+64,Yorkshire and The Humber,2018,1.3
+65,Yorkshire and The Humber,2019,0.8
+66,Yorkshire and The Humber,2020,-10.8
+67,Yorkshire and The Humber,2021,12.7
+68,Yorkshire and The Humber,2022,3.9
+69,East Midlands,2000,3.0
+70,East Midlands,2001,2.5
+71,East Midlands,2002,1.3
+72,East Midlands,2003,3.0
+73,East Midlands,2004,2.7
+74,East Midlands,2005,2.3
+75,East Midlands,2006,3.7
+76,East Midlands,2007,0.6
+77,East Midlands,2008,-0.4
+78,East Midlands,2009,-6.0
+79,East Midlands,2010,4.5
+80,East Midlands,2011,2.3
+81,East Midlands,2012,1.5
+82,East Midlands,2013,2.5
+83,East Midlands,2014,2.4
+84,East Midlands,2015,1.3
+85,East Midlands,2016,1.5
+86,East Midlands,2017,1.7
+87,East Midlands,2018,2.0
+88,East Midlands,2019,1.0
+89,East Midlands,2020,-9.6
+90,East Midlands,2021,10.6
+91,East Midlands,2022,1.8
+92,West Midlands,2000,2.8
+93,West Midlands,2001,2.5
+94,West Midlands,2002,0.7
+95,West Midlands,2003,2.4
+96,West Midlands,2004,2.2
+97,West Midlands,2005,1.2
+98,West Midlands,2006,1.8
+99,West Midlands,2007,0.4
+100,West Midlands,2008,-0.5
+101,West Midlands,2009,-6.5
+102,West Midlands,2010,4.4
+103,West Midlands,2011,3.9
+104,West Midlands,2012,1.4
+105,West Midlands,2013,2.3
+106,West Midlands,2014,3.5
+107,West Midlands,2015,2.4
+108,West Midlands,2016,2.5
+109,West Midlands,2017,3.2
+110,West Midlands,2018,1.2
+111,West Midlands,2019,-0.5
+112,West Midlands,2020,-10.9
+113,West Midlands,2021,10.7
+114,West Midlands,2022,2.8
+115,East,2000,5.6
+116,East,2001,2.9
+117,East,2002,1.1
+118,East,2003,3.8
+119,East,2004,1.3
+120,East,2005,3.7
+121,East,2006,2.6
+122,East,2007,1.8
+123,East,2008,0.1
+124,East,2009,-5.4
+125,East,2010,3.2
+126,East,2011,1.4
+127,East,2012,1.5
+128,East,2013,2.5
+129,East,2014,4.4
+130,East,2015,2.0
+131,East,2016,2.3
+132,East,2017,5.0
+133,East,2018,0.0
+134,East,2019,1.9
+135,East,2020,-11.8
+136,East,2021,10.5
+137,East,2022,3.9
+138,London,2000,7.8
+139,London,2001,0.8
+140,London,2002,1.5
+141,London,2003,4.0
+142,London,2004,2.7
+143,London,2005,5.5
+144,London,2006,3.8
+145,London,2007,7.2
+146,London,2008,-0.3
+147,London,2009,-6.2
+148,London,2010,4.3
+149,London,2011,3.9
+150,London,2012,2.9
+151,London,2013,3.2
+152,London,2014,4.4
+153,London,2015,1.4
+154,London,2016,3.9
+155,London,2017,1.9
+156,London,2018,1.8
+157,London,2019,1.4
+158,London,2020,-13.0
+159,London,2021,8.9
+160,London,2022,4.9
+161,South East,2000,5.4
+162,South East,2001,1.7
+163,South East,2002,1.8
+164,South East,2003,2.3
+165,South East,2004,1.2
+166,South East,2005,3.1
+167,South East,2006,2.3
+168,South East,2007,2.7
+169,South East,2008,1.3
+170,South East,2009,-4.2
+171,South East,2010,5.6
+172,South East,2011,2.8
+173,South East,2012,2.3
+174,South East,2013,1.9
+175,South East,2014,3.0
+176,South East,2015,2.6
+177,South East,2016,0.6
+178,South East,2017,2.4
+179,South East,2018,1.7
+180,South East,2019,3.0
+181,South East,2020,-7.6
+182,South East,2021,6.5
+183,South East,2022,4.8
+184,South West,2000,3.7
+185,South West,2001,3.4
+186,South West,2002,1.4
+187,South West,2003,2.2
+188,South West,2004,2.4
+189,South West,2005,1.9
+190,South West,2006,1.7
+191,South West,2007,1.8
+192,South West,2008,0.3
+193,South West,2009,-4.8
+194,South West,2010,4.7
+195,South West,2011,1.5
+196,South West,2012,1.2
+197,South West,2013,0.9
+198,South West,2014,3.9
+199,South West,2015,0.3
+200,South West,2016,1.7
+201,South West,2017,3.7
+202,South West,2018,0.8
+203,South West,2019,1.9
+204,South West,2020,-10.9
+205,South West,2021,12.3
+206,South West,2022,4.2
+207,Wales,2000,4.1
+208,Wales,2001,2.5
+209,Wales,2002,1.6
+210,Wales,2003,3.5
+211,Wales,2004,2.8
+212,Wales,2005,1.5
+213,Wales,2006,3.4
+214,Wales,2007,0.9
+215,Wales,2008,-3.0
+216,Wales,2009,-4.1
+217,Wales,2010,2.9
+218,Wales,2011,3.7
+219,Wales,2012,1.6
+220,Wales,2013,1.8
+221,Wales,2014,1.7
+222,Wales,2015,2.1
+223,Wales,2016,2.6
+224,Wales,2017,1.9
+225,Wales,2018,2.6
+226,Wales,2019,1.5
+227,Wales,2020,-10.7
+228,Wales,2021,5.3
+229,Wales,2022,3.8
+230,Scotland,2000,3.7
+231,Scotland,2001,3.5
+232,Scotland,2002,1.3
+233,Scotland,2003,2.9
+234,Scotland,2004,3.2
+235,Scotland,2005,3.7
+236,Scotland,2006,3.4
+237,Scotland,2007,2.5
+238,Scotland,2008,0.8
+239,Scotland,2009,-4.1
+240,Scotland,2010,1.9
+241,Scotland,2011,2.3
+242,Scotland,2012,1.4
+243,Scotland,2013,2.4
+244,Scotland,2014,3.1
+245,Scotland,2015,0.9
+246,Scotland,2016,0.5
+247,Scotland,2017,3.0
+248,Scotland,2018,0.1
+249,Scotland,2019,1.5
+250,Scotland,2020,-12.5
+251,Scotland,2021,9.4
+252,Scotland,2022,3.2
+253,Northern Ireland,2000,6.3
+254,Northern Ireland,2001,2.6
+255,Northern Ireland,2002,0.6
+256,Northern Ireland,2003,4.2
+257,Northern Ireland,2004,2.1
+258,Northern Ireland,2005,3.6
+259,Northern Ireland,2006,3.0
+260,Northern Ireland,2007,0.0
+261,Northern Ireland,2008,-3.0
+262,Northern Ireland,2009,-5.2
+263,Northern Ireland,2010,0.4
+264,Northern Ireland,2011,3.2
+265,Northern Ireland,2012,1.7
+266,Northern Ireland,2013,1.3
+267,Northern Ireland,2014,2.0
+268,Northern Ireland,2015,1.1
+269,Northern Ireland,2016,3.9
+270,Northern Ireland,2017,1.8
+271,Northern Ireland,2018,0.3
+272,Northern Ireland,2019,2.6
+273,Northern Ireland,2020,-12.3
+274,Northern Ireland,2021,11.8
+275,Northern Ireland,2022,3.0

@@ -1,0 +1,277 @@
+,Region,Year,Gross domestic product (GDP) at current market prices
+0,North East,2000,34400
+1,North East,2001,35897
+2,North East,2002,38189
+3,North East,2003,40307
+4,North East,2004,43493
+5,North East,2005,45450
+6,North East,2006,47740
+7,North East,2007,48977
+8,North East,2008,50115
+9,North East,2009,49383
+10,North East,2010,50627
+11,North East,2011,52130
+12,North East,2012,53468
+13,North East,2013,54425
+14,North East,2014,56044
+15,North East,2015,57987
+16,North East,2016,59034
+17,North East,2017,60817
+18,North East,2018,62132
+19,North East,2019,64599
+20,North East,2020,60217
+21,North East,2021,65438
+22,North East,2022,71763
+23,North West,2000,107149
+24,North West,2001,113207
+25,North West,2002,118484
+26,North West,2003,125085
+27,North West,2004,132188
+28,North West,2005,138622
+29,North West,2006,145988
+30,North West,2007,151582
+31,North West,2008,154657
+32,North West,2009,152624
+33,North West,2010,157600
+34,North West,2011,160628
+35,North West,2012,165244
+36,North West,2013,171152
+37,North West,2014,178009
+38,North West,2015,184614
+39,North West,2016,191435
+40,North West,2017,200353
+41,North West,2018,205332
+42,North West,2019,214459
+43,North West,2020,207214
+44,North West,2021,224940
+45,North West,2022,247199
+46,Yorkshire and The Humber,2000,75592
+47,Yorkshire and The Humber,2001,79078
+48,Yorkshire and The Humber,2002,83361
+49,Yorkshire and The Humber,2003,88977
+50,Yorkshire and The Humber,2004,94219
+51,Yorkshire and The Humber,2005,98853
+52,Yorkshire and The Humber,2006,103581
+53,Yorkshire and The Humber,2007,109253
+54,Yorkshire and The Humber,2008,110444
+55,Yorkshire and The Humber,2009,107470
+56,Yorkshire and The Humber,2010,109650
+57,Yorkshire and The Humber,2011,112802
+58,Yorkshire and The Humber,2012,115505
+59,Yorkshire and The Humber,2013,118836
+60,Yorkshire and The Humber,2014,122810
+61,Yorkshire and The Humber,2015,128061
+62,Yorkshire and The Humber,2016,131216
+63,Yorkshire and The Humber,2017,137625
+64,Yorkshire and The Humber,2018,141828
+65,Yorkshire and The Humber,2019,146697
+66,Yorkshire and The Humber,2020,139350
+67,Yorkshire and The Humber,2021,155548
+68,Yorkshire and The Humber,2022,170304
+69,East Midlands,2000,65218
+70,East Midlands,2001,67838
+71,East Midlands,2002,70646
+72,East Midlands,2003,74262
+73,East Midlands,2004,77950
+74,East Midlands,2005,82033
+75,East Midlands,2006,86497
+76,East Midlands,2007,90211
+77,East Midlands,2008,93414
+78,East Midlands,2009,90235
+79,East Midlands,2010,94473
+80,East Midlands,2011,96869
+81,East Midlands,2012,100304
+82,East Midlands,2013,104582
+83,East Midlands,2014,108856
+84,East Midlands,2015,112231
+85,East Midlands,2016,115634
+86,East Midlands,2017,120120
+87,East Midlands,2018,125412
+88,East Midlands,2019,129712
+89,East Midlands,2020,124928
+90,East Midlands,2021,136155
+91,East Midlands,2022,146482
+92,West Midlands,2000,84215
+93,West Midlands,2001,87183
+94,West Midlands,2002,90346
+95,West Midlands,2003,94909
+96,West Midlands,2004,99641
+97,West Midlands,2005,104013
+98,West Midlands,2006,107802
+99,West Midlands,2007,111277
+100,West Midlands,2008,114628
+101,West Midlands,2009,110356
+102,West Midlands,2010,115214
+103,West Midlands,2011,119815
+104,West Midlands,2012,123684
+105,West Midlands,2013,129318
+106,West Midlands,2014,135308
+107,West Midlands,2015,140026
+108,West Midlands,2016,146497
+109,West Midlands,2017,153676
+110,West Midlands,2018,158584
+111,West Midlands,2019,161987
+112,West Midlands,2020,152542
+113,West Midlands,2021,166973
+114,West Midlands,2022,181354
+115,East,2000,94882
+116,East,2001,99719
+117,East,2002,103583
+118,East,2003,110129
+119,East,2004,114109
+120,East,2005,120482
+121,East,2006,126410
+122,East,2007,131340
+123,East,2008,135750
+124,East,2009,131335
+125,East,2010,134789
+126,East,2011,137115
+127,East,2012,141401
+128,East,2013,147506
+129,East,2014,155586
+130,East,2015,161614
+131,East,2016,168698
+132,East,2017,179799
+133,East,2018,183484
+134,East,2019,191077
+135,East,2020,178899
+136,East,2021,195595
+137,East,2022,213828
+138,London,2000,222815
+139,London,2001,229343
+140,London,2002,237805
+141,London,2003,251438
+142,London,2004,264024
+143,London,2005,284255
+144,London,2006,301650
+145,London,2007,327381
+146,London,2008,334602
+147,London,2009,327455
+148,London,2010,343600
+149,London,2011,359273
+150,London,2012,373114
+151,London,2013,392876
+152,London,2014,419572
+153,London,2015,434589
+154,London,2016,460923
+155,London,2017,477262
+156,London,2018,494959
+157,London,2019,511331
+158,London,2020,470080
+159,London,2021,508056
+160,London,2022,562179
+161,South East,2000,165649
+162,South East,2001,171949
+163,South East,2002,179399
+164,South East,2003,188042
+165,South East,2004,194735
+166,South East,2005,204516
+167,South East,2006,213714
+168,South East,2007,223564
+169,South East,2008,234081
+170,South East,2009,228649
+171,South East,2010,237294
+172,South East,2011,245605
+173,South East,2012,254259
+174,South East,2013,263966
+175,South East,2014,275170
+176,South East,2015,285334
+177,South East,2016,293248
+178,South East,2017,304508
+179,South East,2018,314886
+180,South East,2019,331457
+181,South East,2020,321947
+182,South East,2021,341182
+183,South East,2022,374453
+184,South West,2000,82267
+185,South West,2001,86519
+186,South West,2002,90357
+187,South West,2003,95286
+188,South West,2004,100679
+189,South West,2005,105374
+190,South West,2006,110352
+191,South West,2007,114981
+192,South West,2008,119805
+193,South West,2009,117257
+194,South West,2010,122149
+195,South West,2011,124808
+196,South West,2012,128713
+197,South West,2013,132691
+198,South West,2014,139703
+199,South West,2015,142562
+200,South West,2016,147757
+201,South West,2017,155596
+202,South West,2018,160262
+203,South West,2019,166873
+204,South West,2020,157517
+205,South West,2021,176067
+206,South West,2022,194030
+207,Wales,2000,39816
+208,Wales,2001,41082
+209,Wales,2002,42874
+210,Wales,2003,45654
+211,Wales,2004,48387
+212,Wales,2005,50666
+213,Wales,2006,53340
+214,Wales,2007,55435
+215,Wales,2008,55911
+216,Wales,2009,54742
+217,Wales,2010,56739
+218,Wales,2011,59404
+219,Wales,2012,61319
+220,Wales,2013,63646
+221,Wales,2014,65402
+222,Wales,2015,67350
+223,Wales,2016,70135
+224,Wales,2017,72590
+225,Wales,2018,75297
+226,Wales,2019,78479
+227,Wales,2020,73913
+228,Wales,2021,78460
+229,Wales,2022,85412
+230,Scotland,2000,83284
+231,Scotland,2001,87909
+232,Scotland,2002,91453
+233,Scotland,2003,96735
+234,Scotland,2004,103032
+235,Scotland,2005,109211
+236,Scotland,2006,116611
+237,Scotland,2007,121605
+238,Scotland,2008,126552
+239,Scotland,2009,124916
+240,Scotland,2010,126556
+241,Scotland,2011,130852
+242,Scotland,2012,134871
+243,Scotland,2013,140901
+244,Scotland,2014,147489
+245,Scotland,2015,149194
+246,Scotland,2016,151808
+247,Scotland,2017,158895
+248,Scotland,2018,162291
+249,Scotland,2019,168681
+250,Scotland,2020,157814
+251,Scotland,2021,171173
+252,Scotland,2022,186851
+253,Northern Ireland,2000,25402
+254,Northern Ireland,2001,26510
+255,Northern Ireland,2002,27383
+256,Northern Ireland,2003,29512
+257,Northern Ireland,2004,30916
+258,Northern Ireland,2005,32733
+259,Northern Ireland,2006,34723
+260,Northern Ireland,2007,36154
+261,Northern Ireland,2008,36508
+262,Northern Ireland,2009,35636
+263,Northern Ireland,2010,35841
+264,Northern Ireland,2011,37062
+265,Northern Ireland,2012,38469
+266,Northern Ireland,2013,39679
+267,Northern Ireland,2014,40904
+268,Northern Ireland,2015,42385
+269,Northern Ireland,2016,44750
+270,Northern Ireland,2017,46481
+271,Northern Ireland,2018,47652
+272,Northern Ireland,2019,50057
+273,Northern Ireland,2020,47519
+274,Northern Ireland,2021,52389
+275,Northern Ireland,2022,56694
