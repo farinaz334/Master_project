@@ -1,0 +1,14 @@
+Table 1: Gross value added (Balanced) at current basic prices, pounds million																											
+Table 2: Value Added Tax (VAT) on products, pounds million																											
+Table 3: Other taxes on products, pounds million																											
+Table 4: Subsidies on products, pounds million																											
+Table 5: Gross domestic product (GDP) at current market prices, pounds million																											
+Table 6: Total resident population numbers, persons [notes 4, 5]																											
+Table 7: Gross domestic product (GDP) per head at current market prices, pounds [notes 5, 6]																											
+Table 8: Whole economy gross value addd (GVA) implied deflators, 2019 equals 100 [note 2]																											
+Table 9: Gross domestic product (GDP) chained volume measures (CVM) index, 2019 equals 100 [note 1]																											
+Table 10: Gross domestic product (GDP) chained volume measures (CVM) in 2019 money value, pounds million [notes 1, 3]																											
+Table 11: Gross domestic product (GDP) chained volume measures (CVM) in 2019 money value, per head, pounds [notes 1, 5, 6]																												
+Table 12: Gross domestic product (GDP) chained volume measures (CVM) annual growth rates, percentage [note 1]																													
+Table 13: Gross domestic product (GDP) chained volume measures (CVM) per head annual growth rates, percentage [notes 1, 5, 6]																											
+
